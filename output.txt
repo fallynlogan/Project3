@@ -1,0 +1,197 @@
+Test1: Spring RollShredded Cabbage $4.0
+Test2: Spring Roll Ground Pork $5.0
+Test3: Spring Roll Peanut Sauce $4.5
+Test4: Spring Roll Peanut SauceShredded Cabbage $6.5
+---------- Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin... ----------
+
+
+Today is Day 1.
+Initial Spring Rolls: 30
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 30
+Initial Jelly Rolls: 30
+
+====================================================================================================
+
+
+Inventory at the end of Day 1.
+Leftover Spring Rolls: 30
+Leftover Egg Rolls: 30
+Leftover Pastry Rolls: 30
+Leftover Sausage Rolls: 30
+Leftover Jelly Rolls: 30
+
+====================================================================================================
+
+Today is Day 2.
+Initial Spring Rolls: 30
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 30
+Initial Jelly Rolls: 30
+
+====================================================================================================
+
+
+Inventory at the end of Day 2.
+Leftover Spring Rolls: 30
+Leftover Egg Rolls: 30
+Leftover Pastry Rolls: 30
+Leftover Sausage Rolls: 30
+Leftover Jelly Rolls: 30
+
+====================================================================================================
+
+Today is Day 3.
+Initial Spring Rolls: 30
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 30
+Initial Jelly Rolls: 30
+
+====================================================================================================
+
+
+Inventory at the end of Day 3.
+Leftover Spring Rolls: 30
+Leftover Egg Rolls: 30
+Leftover Pastry Rolls: 30
+Leftover Sausage Rolls: 30
+Leftover Jelly Rolls: 30
+
+====================================================================================================
+
+Today is Day 4.
+Initial Spring Rolls: 30
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 30
+Initial Jelly Rolls: 30
+
+====================================================================================================
+
+
+Inventory at the end of Day 4.
+Leftover Spring Rolls: 30
+Leftover Egg Rolls: 30
+Leftover Pastry Rolls: 30
+Leftover Sausage Rolls: 30
+Leftover Jelly Rolls: 30
+
+====================================================================================================
+
+Today is Day 5.
+Initial Spring Rolls: 30
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 30
+Initial Jelly Rolls: 30
+
+====================================================================================================
+
+
+Inventory at the end of Day 5.
+Leftover Spring Rolls: 30
+Leftover Egg Rolls: 30
+Leftover Pastry Rolls: 30
+Leftover Sausage Rolls: 30
+Leftover Jelly Rolls: 30
+
+====================================================================================================
+
+Today is Day 6.
+Initial Spring Rolls: 30
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 30
+Initial Jelly Rolls: 30
+
+====================================================================================================
+
+
+Inventory at the end of Day 6.
+Leftover Spring Rolls: 30
+Leftover Egg Rolls: 30
+Leftover Pastry Rolls: 30
+Leftover Sausage Rolls: 30
+Leftover Jelly Rolls: 30
+
+====================================================================================================
+
+Today is Day 7.
+Initial Spring Rolls: 30
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 30
+Initial Jelly Rolls: 30
+
+====================================================================================================
+
+
+Inventory at the end of Day 7.
+Leftover Spring Rolls: 30
+Leftover Egg Rolls: 30
+Leftover Pastry Rolls: 30
+Leftover Sausage Rolls: 30
+Leftover Jelly Rolls: 30
+
+====================================================================================================
+
+Today is Day 8.
+Initial Spring Rolls: 30
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 30
+Initial Jelly Rolls: 30
+
+====================================================================================================
+
+
+Inventory at the end of Day 8.
+Leftover Spring Rolls: 30
+Leftover Egg Rolls: 30
+Leftover Pastry Rolls: 30
+Leftover Sausage Rolls: 30
+Leftover Jelly Rolls: 30
+
+====================================================================================================
+
+Today is Day 9.
+Initial Spring Rolls: 30
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 30
+Initial Jelly Rolls: 30
+
+====================================================================================================
+
+
+Inventory at the end of Day 9.
+Leftover Spring Rolls: 30
+Leftover Egg Rolls: 30
+Leftover Pastry Rolls: 30
+Leftover Sausage Rolls: 30
+Leftover Jelly Rolls: 30
+
+====================================================================================================
+
+Today is Day 10.
+Initial Spring Rolls: 30
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 30
+Initial Jelly Rolls: 30
+
+====================================================================================================
+
+
+Inventory at the end of Day 10.
+Leftover Spring Rolls: 30
+Leftover Egg Rolls: 30
+Leftover Pastry Rolls: 30
+Leftover Sausage Rolls: 30
+Leftover Jelly Rolls: 30
+
+====================================================================================================
+
