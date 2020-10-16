@@ -1,7 +1,3 @@
-Test1: Spring RollShredded Cabbage $4.0
-Test2: Spring Roll Ground Pork $5.0
-Test3: Spring Roll Peanut Sauce $4.5
-Test4: Spring Roll Peanut SauceShredded Cabbage $6.5
 ---------- Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin... ----------
 
 
@@ -14,146 +10,435 @@ Initial Jelly Rolls: 30
 
 ====================================================================================================
 
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Egg Roll=5}
+Actualy Purchase: {Spring Roll=0, Egg Roll=0}
+Catering Customer: 
+Original Purchase: {Pastry Roll=5, Sausage Roll=5}
+Actualy Purchase: {Pastry Roll=0, Sausage Roll=0}
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Sausage Roll=5}
+Actualy Purchase: {Jelly Roll=0, Spring Roll=0, Sausage Roll=0}
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Actualy Purchase: {Jelly Roll=0}
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Actualy Purchase: {Egg Roll=0}
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Actualy Purchase: {Egg Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+Actualy Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+Actualy Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+Actualy Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
 
 Inventory at the end of Day 1.
-Leftover Spring Rolls: 30
-Leftover Egg Rolls: 30
-Leftover Pastry Rolls: 30
-Leftover Sausage Rolls: 30
-Leftover Jelly Rolls: 30
+Leftover Spring Rolls: 14
+Leftover Egg Rolls: 16
+Leftover Pastry Rolls: 19
+Leftover Sausage Rolls: 14
+Leftover Jelly Rolls: 18
 
 ====================================================================================================
 
 Today is Day 2.
-Initial Spring Rolls: 30
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 30
+Initial Spring Rolls: 14
+Initial Egg Rolls: 16
+Initial Pastry Rolls: 19
+Initial Sausage Rolls: 14
+Initial Jelly Rolls: 18
 
 ====================================================================================================
 
+Catering Customer: 
+Original Purchase: {Egg Roll=5, Pastry Roll=5}
+Actualy Purchase: {Egg Roll=0, Pastry Roll=0}
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Egg Roll=5, Pastry Roll=5}
+Actualy Purchase: {Jelly Roll=0, Egg Roll=0, Pastry Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Actualy Purchase: {Pastry Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Actualy Purchase: {Jelly Roll=0}
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Actualy Purchase: {Egg Roll=0}
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Actualy Purchase: {Pastry Roll=0}
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Actualy Purchase: {Sausage Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+Actualy Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+Actualy Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 2.
-Leftover Spring Rolls: 30
-Leftover Egg Rolls: 30
-Leftover Pastry Rolls: 30
-Leftover Sausage Rolls: 30
-Leftover Jelly Rolls: 30
+Leftover Spring Rolls: 2
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 7
+Leftover Jelly Rolls: 5
 
 ====================================================================================================
 
 Today is Day 3.
-Initial Spring Rolls: 30
+Initial Spring Rolls: 2
 Initial Egg Rolls: 30
 Initial Pastry Rolls: 30
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 30
+Initial Sausage Rolls: 7
+Initial Jelly Rolls: 5
 
 ====================================================================================================
 
+Catering Customer: 
+Original Purchase: {Pastry Roll=5, Sausage Roll=5}
+Actualy Purchase: {Pastry Roll=0, Sausage Roll=0}
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Pastry Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Actualy Purchase: {Egg Roll=0}
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Actualy Purchase: {Egg Roll=0}
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Actualy Purchase: {Egg Roll=0}
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Actualy Purchase: {Pastry Roll=0}
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Actualy Purchase: {Pastry Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Actualy Purchase: {Spring Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 3.
-Leftover Spring Rolls: 30
-Leftover Egg Rolls: 30
-Leftover Pastry Rolls: 30
-Leftover Sausage Rolls: 30
-Leftover Jelly Rolls: 30
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 17
+Leftover Pastry Rolls: 11
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
 
 ====================================================================================================
 
 Today is Day 4.
 Initial Spring Rolls: 30
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 30
+Initial Egg Rolls: 17
+Initial Pastry Rolls: 11
 Initial Sausage Rolls: 30
 Initial Jelly Rolls: 30
 
 ====================================================================================================
 
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Sausage Roll=5}
+Actualy Purchase: {Spring Roll=0, Sausage Roll=0}
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Actualy Purchase: {Egg Roll=0}
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Actualy Purchase: {Pastry Roll=0}
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+Actualy Purchase: {Jelly Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+Actualy Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+Actualy Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+Actualy Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
 
 Inventory at the end of Day 4.
-Leftover Spring Rolls: 30
-Leftover Egg Rolls: 30
-Leftover Pastry Rolls: 30
-Leftover Sausage Rolls: 30
-Leftover Jelly Rolls: 30
+Leftover Spring Rolls: 19
+Leftover Egg Rolls: 8
+Leftover Pastry Rolls: 3
+Leftover Sausage Rolls: 19
+Leftover Jelly Rolls: 21
 
 ====================================================================================================
 
 Today is Day 5.
-Initial Spring Rolls: 30
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 30
+Initial Spring Rolls: 19
+Initial Egg Rolls: 8
+Initial Pastry Rolls: 3
+Initial Sausage Rolls: 19
+Initial Jelly Rolls: 21
 
 ====================================================================================================
 
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Spring Roll=5}
+Actualy Purchase: {Jelly Roll=0, Spring Roll=0}
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Egg Roll=5}
+Actualy Purchase: {Jelly Roll=0, Egg Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Actualy Purchase: {Pastry Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Actualy Purchase: {Egg Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+Actualy Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 5.
-Leftover Spring Rolls: 30
-Leftover Egg Rolls: 30
-Leftover Pastry Rolls: 30
-Leftover Sausage Rolls: 30
-Leftover Jelly Rolls: 30
+Leftover Spring Rolls: 3
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 15
+Leftover Jelly Rolls: 7
 
 ====================================================================================================
 
 Today is Day 6.
-Initial Spring Rolls: 30
+Initial Spring Rolls: 3
 Initial Egg Rolls: 30
 Initial Pastry Rolls: 30
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 30
+Initial Sausage Rolls: 15
+Initial Jelly Rolls: 7
 
 ====================================================================================================
 
+Catering Customer: 
+Original Purchase: {Jelly Roll=5}
+Actualy Purchase: {Jelly Roll=0}
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Pastry Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Egg Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Actualy Purchase: {Sausage Roll=0}
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Actualy Purchase: {Sausage Roll=0}
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+Actualy Purchase: {Pastry Roll=0}
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Actualy Purchase: {Egg Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Actualy Purchase: {Egg Roll=0}
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+Actualy Purchase: {Pastry Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 6.
-Leftover Spring Rolls: 30
-Leftover Egg Rolls: 30
-Leftover Pastry Rolls: 30
-Leftover Sausage Rolls: 30
-Leftover Jelly Rolls: 30
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 15
+Leftover Pastry Rolls: 15
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 0
 
 ====================================================================================================
 
 Today is Day 7.
 Initial Spring Rolls: 30
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 30
+Initial Egg Rolls: 15
+Initial Pastry Rolls: 15
 Initial Sausage Rolls: 30
 Initial Jelly Rolls: 30
 
 ====================================================================================================
 
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Sausage Roll=5}
+Actualy Purchase: {Spring Roll=0, Sausage Roll=0}
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Pastry Roll=5}
+Actualy Purchase: {Jelly Roll=0, Spring Roll=0, Pastry Roll=0}
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Egg Roll=5}
+Actualy Purchase: {Spring Roll=0, Egg Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Actualy Purchase: {Pastry Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Actualy Purchase: {Egg Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Actualy Purchase: {Spring Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+Actualy Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
 
 Inventory at the end of Day 7.
-Leftover Spring Rolls: 30
-Leftover Egg Rolls: 30
-Leftover Pastry Rolls: 30
-Leftover Sausage Rolls: 30
-Leftover Jelly Rolls: 30
+Leftover Spring Rolls: 9
+Leftover Egg Rolls: 6
+Leftover Pastry Rolls: 7
+Leftover Sausage Rolls: 23
+Leftover Jelly Rolls: 23
 
 ====================================================================================================
 
 Today is Day 8.
-Initial Spring Rolls: 30
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 30
+Initial Spring Rolls: 9
+Initial Egg Rolls: 6
+Initial Pastry Rolls: 7
+Initial Sausage Rolls: 23
+Initial Jelly Rolls: 23
 
 ====================================================================================================
 
+Catering Customer: 
+Original Purchase: {Egg Roll=5, Pastry Roll=5}
+Actualy Purchase: {Egg Roll=0, Pastry Roll=0}
+Catering Customer: 
+Original Purchase: {Pastry Roll=5, Sausage Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Actualy Purchase: {Jelly Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Actualy Purchase: {Jelly Roll=0}
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Actualy Purchase: {Jelly Roll=0}
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Actualy Purchase: {Sausage Roll=0}
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Actualy Purchase: {Sausage Roll=0}
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Actualy Purchase: {Sausage Roll=0}
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Actualy Purchase: {Jelly Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 8.
-Leftover Spring Rolls: 30
-Leftover Egg Rolls: 30
-Leftover Pastry Rolls: 30
-Leftover Sausage Rolls: 30
-Leftover Jelly Rolls: 30
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 8
+Leftover Jelly Rolls: 11
 
 ====================================================================================================
 
@@ -161,37 +446,95 @@ Today is Day 9.
 Initial Spring Rolls: 30
 Initial Egg Rolls: 30
 Initial Pastry Rolls: 30
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 30
+Initial Sausage Rolls: 8
+Initial Jelly Rolls: 11
 
 ====================================================================================================
 
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Pastry Roll=5}
+Actualy Purchase: {Jelly Roll=0, Pastry Roll=0}
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Sausage Roll=5}
+Actualy Purchase: {Spring Roll=0, Sausage Roll=0}
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Egg Roll=5}
+Actualy Purchase: {Jelly Roll=0, Egg Roll=0}
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Actualy Purchase: {Egg Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Actualy Purchase: {Spring Roll=0}
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Actualy Purchase: {Spring Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 9.
-Leftover Spring Rolls: 30
-Leftover Egg Rolls: 30
-Leftover Pastry Rolls: 30
-Leftover Sausage Rolls: 30
-Leftover Jelly Rolls: 30
+Leftover Spring Rolls: 13
+Leftover Egg Rolls: 20
+Leftover Pastry Rolls: 23
+Leftover Sausage Rolls: 1
+Leftover Jelly Rolls: 0
 
 ====================================================================================================
 
 Today is Day 10.
-Initial Spring Rolls: 30
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 30
+Initial Spring Rolls: 13
+Initial Egg Rolls: 20
+Initial Pastry Rolls: 23
+Initial Sausage Rolls: 1
 Initial Jelly Rolls: 30
 
 ====================================================================================================
 
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Pastry Roll=5}
+Actualy Purchase: {Jelly Roll=0, Spring Roll=0, Pastry Roll=0}
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+Actualy Purchase: {Egg Roll=0}
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+Actualy Purchase: {Pastry Roll=0}
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 10.
-Leftover Spring Rolls: 30
-Leftover Egg Rolls: 30
-Leftover Pastry Rolls: 30
-Leftover Sausage Rolls: 30
-Leftover Jelly Rolls: 30
+Leftover Spring Rolls: 6
+Leftover Egg Rolls: 17
+Leftover Pastry Rolls: 13
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 23
+
+====================================================================================================
+
+
+============================================End Simulation==========================================
+
 
 ====================================================================================================
 

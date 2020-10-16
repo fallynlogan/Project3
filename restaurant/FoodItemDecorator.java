@@ -1,6 +1,7 @@
 package restaurant;
 
 public class FoodItemDecorator implements FoodItem {
+    //OO Decorator pattern applied
     protected FoodItem decoratedFoodItem;
 
     public FoodItemDecorator(FoodItem decoratedFoodItem)
