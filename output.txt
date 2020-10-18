@@ -10,629 +10,553 @@ Initial Jelly Rolls: 30
 
 ====================================================================================================
 
-order: [restaurant.PastryRoll@71be98f5, restaurant.PastryRoll@6fadae5d, restaurant.PastryRoll@17f6480, restaurant.PastryRoll@2d6e8792, restaurant.PastryRoll@2812cbfa, restaurant.SausageRoll@2acf57e3, restaurant.SausageRoll@506e6d5e, restaurant.SausageRoll@96532d6, restaurant.SausageRoll@3796751b, restaurant.SausageRoll@67b64c45, restaurant.EggRoll@4411d970, restaurant.EggRoll@6442b0a6, restaurant.EggRoll@60f82f98, restaurant.EggRoll@35f983a6, restaurant.EggRoll@7f690630]
-Pastry Roll  Marinara Sauce 3.75
+order: [restaurant.PastryRoll@71be98f5, restaurant.PastryRoll@6fadae5d, restaurant.PastryRoll@17f6480, restaurant.PastryRoll@2d6e8792, restaurant.PastryRoll@2812cbfa, restaurant.JellyRoll@2acf57e3, restaurant.JellyRoll@506e6d5e, restaurant.JellyRoll@96532d6, restaurant.JellyRoll@3796751b, restaurant.JellyRoll@67b64c45, restaurant.EggRoll@4411d970, restaurant.EggRoll@6442b0a6, restaurant.EggRoll@60f82f98, restaurant.EggRoll@35f983a6, restaurant.EggRoll@7f690630]
+Pastry Roll  Powdered Sugar Topping  Cranberry Sauce 4.25
+Pastry Roll  Marinara Sauce  Marinara Sauce 4.75
 Pastry Roll 2.75
-Pastry Roll  Mozzarella Cheese Topping 3.25
-Pastry Roll  Mozzarella Cheese Topping  Marinara Sauce 4.25
-Pastry Roll  Marinara Sauce 3.75
-Sausage Roll  Fruit Preserves Topping 4.5
-Sausage Roll  Fruit Preserves Topping  Marinara Sauce  Marinara Sauce 6.5
-Sausage Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce 5.5
-Sausage Roll 4.0
-Sausage Roll  Marinara Sauce  Marinara Sauce 6.0
-Egg Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.25
-Egg Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce 6.25
-Egg Roll  Cranberry Sauce  Cranberry Sauce 5.75
-Egg Roll  Peanut Sauce 4.75
-Egg Roll  Powdered Sugar Topping  Marinara Sauce  Marinara Sauce 6.25
-order: [restaurant.SausageRoll@3d8c7aca, restaurant.SausageRoll@5ebec15, restaurant.SausageRoll@21bcffb5, restaurant.SausageRoll@380fb434, restaurant.SausageRoll@668bc3d5, restaurant.JellyRoll@3cda1055, restaurant.JellyRoll@7a5d012c, restaurant.JellyRoll@3fb6a447, restaurant.JellyRoll@79b4d0f, restaurant.JellyRoll@6b2fad11]
-Sausage Roll  Powdered Sugar Topping 4.5
-Sausage Roll  Marinara Sauce 5.0
-Sausage Roll 4.0
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce 5.5
-Sausage Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
-Jelly Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 4.5
-Jelly Roll  Powdered Sugar Topping  Sweet & Sour Sauce 4.0
-Jelly Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce 4.0
-Jelly Roll 2.5
+Pastry Roll  Powdered Sugar Topping  Sweet & Sour Sauce 4.25
+Pastry Roll 2.75
+Jelly Roll  Mozzarella Cheese Topping 3.0
+Jelly Roll  Powdered Sugar Topping  Marinara Sauce 4.0
+Jelly Roll  Shredded Carrots Topping  Marinara Sauce  Marinara Sauce 5.0
 Jelly Roll  Powdered Sugar Topping 3.0
-order: [restaurant.PastryRoll@79698539, restaurant.PastryRoll@73f792cf, restaurant.PastryRoll@2ed94a8b, restaurant.PastryRoll@38082d64, restaurant.PastryRoll@dfd3711, restaurant.JellyRoll@42d3bd8b, restaurant.JellyRoll@26ba2a48, restaurant.JellyRoll@5f2050f6, restaurant.JellyRoll@3b81a1bc, restaurant.JellyRoll@64616ca2, restaurant.EggRoll@13fee20c, restaurant.EggRoll@4e04a765, restaurant.EggRoll@783e6358, restaurant.EggRoll@17550481, restaurant.EggRoll@735f7ae5]
-Pastry Roll 2.75
+Jelly Roll  Mozzarella Cheese Topping 3.0
+Egg Roll 3.75
+Egg Roll  Marinara Sauce  Marinara Sauce 5.75
+Egg Roll  Shredded Cabbage Topping 4.25
+Egg Roll  Sweet & Sour Sauce 4.75
+Egg Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.25
+order: [restaurant.JellyRoll@3d8c7aca, restaurant.JellyRoll@5ebec15, restaurant.JellyRoll@21bcffb5, restaurant.JellyRoll@380fb434, restaurant.JellyRoll@668bc3d5, restaurant.SpringRoll@3cda1055, restaurant.SpringRoll@7a5d012c, restaurant.SpringRoll@3fb6a447, restaurant.SpringRoll@79b4d0f, restaurant.SpringRoll@6b2fad11, restaurant.SpringRoll@79698539, restaurant.SpringRoll@73f792cf, restaurant.SpringRoll@2ed94a8b, restaurant.SpringRoll@38082d64, restaurant.SpringRoll@dfd3711]
+Jelly Roll  Shredded Cabbage Topping  Peanut Sauce 4.0
+Jelly Roll  Powdered Sugar Topping  Peanut Sauce  Peanut Sauce 5.0
+Jelly Roll  Sweet & Sour Sauce 3.5
+Jelly Roll  Peanut Sauce 3.5
+Jelly Roll  Shredded Carrots Topping 3.0
+Spring Roll  Shredded Carrots Topping  Peanut Sauce 5.0
+Spring Roll  Mozzarella Cheese Topping  Cranberry Sauce 5.0
+Spring Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
+Spring Roll  Cranberry Sauce  Cranberry Sauce 5.5
+Spring Roll  Mozzarella Cheese Topping  Peanut Sauce  Peanut Sauce 6.0
+Spring Roll  Powdered Sugar Topping  Marinara Sauce 5.0
+Spring Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 6.0
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
+Spring Roll  Powdered Sugar Topping  Sweet & Sour Sauce 5.0
+Spring Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+order: [restaurant.SpringRoll@42d3bd8b, restaurant.SpringRoll@26ba2a48, restaurant.SpringRoll@5f2050f6]
+Spring Roll  Mozzarella Cheese Topping 4.0
+Spring Roll  Cranberry Sauce 4.5
+Spring Roll  Shredded Carrots Topping  Marinara Sauce 5.0
+order: [restaurant.PastryRoll@64616ca2, restaurant.PastryRoll@13fee20c, restaurant.JellyRoll@4e04a765, restaurant.JellyRoll@783e6358, restaurant.SausageRoll@17550481, restaurant.SausageRoll@735f7ae5, restaurant.SpringRoll@180bc464, restaurant.SpringRoll@1324409e, restaurant.EggRoll@2c6a3f77, restaurant.EggRoll@246ae04d]
 Pastry Roll  Marinara Sauce 3.75
-Pastry Roll 2.75
-Pastry Roll 2.75
 Pastry Roll  Peanut Sauce 3.75
-Jelly Roll  Shredded Carrots Topping 3.0
-Jelly Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce 4.0
-Jelly Roll 2.5
-Jelly Roll  Cranberry Sauce 3.5
-Jelly Roll 2.5
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.75
-Egg Roll  Powdered Sugar Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.25
-Egg Roll  Shredded Carrots Topping 4.25
-Egg Roll  Fruit Preserves Topping  Sweet & Sour Sauce 5.25
-Egg Roll  Fruit Preserves Topping 4.25
-Casual Customer: 
-Original Purchase: {Jelly Roll=1}
-order: [restaurant.JellyRoll@180bc464]
-Jelly Roll  Shredded Carrots Topping 3.0
-Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-order: [restaurant.SausageRoll@1324409e, restaurant.SausageRoll@2c6a3f77]
-Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 6.5
-Sausage Roll  Shredded Carrots Topping 4.5
-Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-order: [restaurant.SausageRoll@246ae04d, restaurant.SausageRoll@62043840]
-Sausage Roll  Peanut Sauce  Peanut Sauce 6.0
-Sausage Roll  Dark Chocolate Sauce 5.0
-order: [restaurant.PastryRoll@2ef9b8bc, restaurant.PastryRoll@5d624da6, restaurant.JellyRoll@1e67b872, restaurant.JellyRoll@60addb54, restaurant.SausageRoll@3f2a3a5, restaurant.SausageRoll@4cb2c100, restaurant.SpringRoll@6fb554cc, restaurant.SpringRoll@614c5515, restaurant.EggRoll@77b52d12, restaurant.EggRoll@2d554825]
-Pastry Roll  Fruit Preserves Topping 3.25
-Pastry Roll  Dark Chocolate Sauce 3.75
-Jelly Roll  Shredded Carrots Topping  Cranberry Sauce  Cranberry Sauce 5.0
-Jelly Roll 2.5
-Sausage Roll  Marinara Sauce 5.0
+Jelly Roll  Mozzarella Cheese Topping 3.0
+Jelly Roll  Dark Chocolate Sauce 3.5
 Sausage Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.5
-Spring Roll  Shredded Cabbage Topping  Marinara Sauce 5.0
+Sausage Roll  Cranberry Sauce 5.0
+Spring Roll  Shredded Cabbage Topping  Marinara Sauce  Marinara Sauce 6.0
 Spring Roll 3.5
 Egg Roll  Powdered Sugar Topping 4.25
-Egg Roll  Peanut Sauce  Peanut Sauce 5.75
-order: [restaurant.PastryRoll@68837a77, restaurant.PastryRoll@6be46e8f, restaurant.JellyRoll@3567135c, restaurant.JellyRoll@327471b5, restaurant.SausageRoll@4157f54e, restaurant.SausageRoll@90f6bfd, restaurant.SpringRoll@47f6473, restaurant.SpringRoll@15975490, restaurant.EggRoll@6b143ee9, restaurant.EggRoll@1936f0f5]
-Pastry Roll  Marinara Sauce 3.75
-Pastry Roll  Fruit Preserves Topping  Sweet & Sour Sauce 4.25
-Jelly Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 5.0
-Jelly Roll  Powdered Sugar Topping 3.0
-Sausage Roll  Dark Chocolate Sauce 5.0
-Sausage Roll  Shredded Cabbage Topping 4.5
-Spring Roll 3.5
-Spring Roll  Fruit Preserves Topping 4.0
-Egg Roll  Shredded Carrots Topping  Cranberry Sauce  Cranberry Sauce 6.25
-Egg Roll  Cranberry Sauce  Cranberry Sauce 5.75
+Egg Roll  Marinara Sauce  Marinara Sauce 5.75
+order: [restaurant.PastryRoll@62043840, restaurant.PastryRoll@5315b42e, restaurant.JellyRoll@2ef9b8bc, restaurant.JellyRoll@5d624da6, restaurant.SausageRoll@1e67b872, restaurant.SausageRoll@60addb54, restaurant.SpringRoll@3f2a3a5, restaurant.SpringRoll@4cb2c100, restaurant.EggRoll@6fb554cc, restaurant.EggRoll@614c5515]
+Pastry Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce 4.25
+Pastry Roll  Cranberry Sauce  Cranberry Sauce 4.75
+Jelly Roll  Marinara Sauce  Marinara Sauce 4.5
+Jelly Roll 2.5
+Sausage Roll  Fruit Preserves Topping  Marinara Sauce 5.5
+Sausage Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 6.5
+Spring Roll  Shredded Carrots Topping  Dark Chocolate Sauce 5.0
+Spring Roll  Peanut Sauce  Peanut Sauce 5.5
+Egg Roll 3.75
+Egg Roll  Fruit Preserves Topping 4.25
 
 Inventory at the end of Day 1.
-Leftover Spring Rolls: 26
-Leftover Egg Rolls: 16
-Leftover Pastry Rolls: 16
-Leftover Sausage Rolls: 12
-Leftover Jelly Rolls: 15
+Leftover Spring Rolls: 13
+Leftover Egg Rolls: 21
+Leftover Pastry Rolls: 21
+Leftover Sausage Rolls: 26
+Leftover Jelly Rolls: 16
 
 ====================================================================================================
 
 Today is Day 2.
-Initial Spring Rolls: 26
-Initial Egg Rolls: 16
-Initial Pastry Rolls: 16
-Initial Sausage Rolls: 12
-Initial Jelly Rolls: 15
+Initial Spring Rolls: 13
+Initial Egg Rolls: 21
+Initial Pastry Rolls: 21
+Initial Sausage Rolls: 26
+Initial Jelly Rolls: 16
 
 ====================================================================================================
 
-order: [restaurant.PastryRoll@6615435c, restaurant.PastryRoll@4909b8da, restaurant.PastryRoll@3a03464, restaurant.PastryRoll@2d3fcdbd, restaurant.PastryRoll@617c74e5, restaurant.JellyRoll@6537cf78, restaurant.JellyRoll@67b6d4ae, restaurant.JellyRoll@34b7bfc0, restaurant.JellyRoll@366e2eef, restaurant.JellyRoll@6df97b55, restaurant.SausageRoll@3cbbc1e0, restaurant.SausageRoll@35fb3008, restaurant.SausageRoll@7225790e, restaurant.SausageRoll@54a097cc, restaurant.SausageRoll@36f6e879]
-Pastry Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.25
-Pastry Roll  Peanut Sauce 3.75
-Pastry Roll  Sweet & Sour Sauce 3.75
-Pastry Roll 2.75
-Pastry Roll  Shredded Cabbage Topping  Cranberry Sauce 4.25
-Jelly Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.5
-Jelly Roll  Mozzarella Cheese Topping  Peanut Sauce  Peanut Sauce 5.0
-Jelly Roll 2.5
-Jelly Roll  Marinara Sauce  Marinara Sauce 4.5
-Jelly Roll  Peanut Sauce  Peanut Sauce 4.5
-Sausage Roll  Shredded Carrots Topping  Marinara Sauce  Marinara Sauce 6.5
-Sausage Roll 4.0
-Sausage Roll  Shredded Cabbage Topping  Cranberry Sauce 5.5
-Sausage Roll  Marinara Sauce 5.0
+order: [restaurant.SausageRoll@77b52d12, restaurant.SausageRoll@2d554825, restaurant.SausageRoll@68837a77, restaurant.SausageRoll@6be46e8f, restaurant.SausageRoll@3567135c, restaurant.SausageRoll@327471b5, restaurant.SausageRoll@4157f54e, restaurant.SausageRoll@90f6bfd, restaurant.SausageRoll@47f6473, restaurant.SausageRoll@15975490, restaurant.SpringRoll@6b143ee9, restaurant.SpringRoll@1936f0f5, restaurant.SpringRoll@6615435c, restaurant.SpringRoll@4909b8da, restaurant.SpringRoll@3a03464]
+Sausage Roll  Shredded Carrots Topping  Cranberry Sauce  Cranberry Sauce 6.5
 Sausage Roll  Mozzarella Cheese Topping 4.5
-Casual Customer: 
-Original Purchase: {Spring Roll=1}
-order: [restaurant.SpringRoll@5a61f5df]
-Spring Roll  Shredded Cabbage Topping  Dark Chocolate Sauce 5.0
-Casual Customer: 
-Original Purchase: {Pastry Roll=3}
-order: [restaurant.PastryRoll@3551a94, restaurant.PastryRoll@531be3c5, restaurant.PastryRoll@52af6cff]
+Sausage Roll  Fruit Preserves Topping  Peanut Sauce 5.5
+Sausage Roll  Powdered Sugar Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.5
+Sausage Roll  Shredded Cabbage Topping  Peanut Sauce 5.5
+Sausage Roll  Peanut Sauce  Peanut Sauce 6.0
+Sausage Roll  Shredded Cabbage Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.5
+Sausage Roll 4.0
+Sausage Roll  Mozzarella Cheese Topping  Peanut Sauce 5.5
+Sausage Roll  Powdered Sugar Topping  Sweet & Sour Sauce 5.5
+Spring Roll  Powdered Sugar Topping 4.0
+Spring Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 6.0
+Spring Roll  Fruit Preserves Topping 4.0
+Spring Roll  Cranberry Sauce  Cranberry Sauce 5.5
+Spring Roll  Marinara Sauce 4.5
+order: [restaurant.PastryRoll@2d3fcdbd, restaurant.PastryRoll@617c74e5, restaurant.PastryRoll@6537cf78, restaurant.PastryRoll@67b6d4ae, restaurant.PastryRoll@34b7bfc0, restaurant.JellyRoll@366e2eef, restaurant.JellyRoll@6df97b55, restaurant.JellyRoll@3cbbc1e0, restaurant.JellyRoll@35fb3008, restaurant.JellyRoll@7225790e, restaurant.SausageRoll@54a097cc, restaurant.SausageRoll@36f6e879, restaurant.SausageRoll@5a61f5df, restaurant.SausageRoll@3551a94, restaurant.SausageRoll@531be3c5]
+Pastry Roll 2.75
 Pastry Roll  Sweet & Sour Sauce 3.75
-Pastry Roll 2.75
-Pastry Roll 2.75
+Pastry Roll  Fruit Preserves Topping 3.25
+Pastry Roll  Fruit Preserves Topping  Cranberry Sauce 4.25
+Pastry Roll  Shredded Cabbage Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.25
+Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
+Jelly Roll 2.5
+Jelly Roll 2.5
+Jelly Roll  Mozzarella Cheese Topping 3.0
+Jelly Roll 2.5
+Sausage Roll  Shredded Cabbage Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.5
+Sausage Roll  Dark Chocolate Sauce 5.0
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce 5.5
+Sausage Roll  Powdered Sugar Topping 4.5
+Sausage Roll 4.0
 Casual Customer: 
-Original Purchase: {Pastry Roll=2}
-order: [restaurant.PastryRoll@735b478, restaurant.PastryRoll@2c9f9fb0]
-Pastry Roll  Shredded Carrots Topping  Cranberry Sauce 4.25
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce 4.25
+Original Purchase: {Sausage Roll=2}
+order: [restaurant.SausageRoll@52af6cff, restaurant.SausageRoll@735b478]
+Sausage Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.5
+Sausage Roll  Shredded Cabbage Topping 4.5
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+order: [restaurant.EggRoll@2c9f9fb0]
+Egg Roll  Shredded Cabbage Topping  Dark Chocolate Sauce 5.25
 Casual Customer: 
 Original Purchase: {Jelly Roll=2}
 order: [restaurant.JellyRoll@2096442d, restaurant.JellyRoll@9f70c54]
-Jelly Roll  Mozzarella Cheese Topping  Cranberry Sauce 4.0
-Jelly Roll  Marinara Sauce 3.5
-Casual Customer: 
-Original Purchase: {Pastry Roll=2}
-order: [restaurant.PastryRoll@234bef66, restaurant.PastryRoll@737996a0]
-Pastry Roll  Mozzarella Cheese Topping  Peanut Sauce  Peanut Sauce 5.25
-Pastry Roll  Powdered Sugar Topping 3.25
-order: [restaurant.PastryRoll@61dc03ce, restaurant.PastryRoll@50f8360d, restaurant.JellyRoll@2cb4c3ab, restaurant.JellyRoll@13c78c0b, restaurant.SausageRoll@12843fce, restaurant.SausageRoll@3dd3bcd, restaurant.SpringRoll@97e1986, restaurant.SpringRoll@26f67b76, restaurant.EggRoll@153f5a29, restaurant.EggRoll@7f560810]
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.25
-Pastry Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce 4.25
-Jelly Roll  Powdered Sugar Topping  Peanut Sauce 4.0
+Jelly Roll  Shredded Carrots Topping 3.0
+Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
+order: [restaurant.PastryRoll@234bef66, restaurant.PastryRoll@737996a0, restaurant.JellyRoll@61dc03ce, restaurant.JellyRoll@50f8360d, restaurant.SausageRoll@2cb4c3ab, restaurant.SausageRoll@13c78c0b, restaurant.SpringRoll@12843fce, restaurant.SpringRoll@3dd3bcd, restaurant.EggRoll@97e1986, restaurant.EggRoll@26f67b76]
+Pastry Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.75
+Pastry Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 5.25
+Jelly Roll  Mozzarella Cheese Topping  Marinara Sauce 4.0
 Jelly Roll 2.5
-Sausage Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
 Sausage Roll 4.0
-Spring Roll 3.5
-Spring Roll  Shredded Cabbage Topping  Marinara Sauce  Marinara Sauce 6.0
-Egg Roll  Fruit Preserves Topping 4.25
-Egg Roll  Powdered Sugar Topping  Marinara Sauce 5.25
-order: [restaurant.PastryRoll@69d9c55, restaurant.PastryRoll@13a57a3b, restaurant.JellyRoll@7ca48474, restaurant.JellyRoll@337d0578, restaurant.SausageRoll@59e84876, restaurant.SausageRoll@61a485d2, restaurant.SpringRoll@39fb3ab6, restaurant.SpringRoll@6276ae34, restaurant.EggRoll@7946e1f4, restaurant.EggRoll@3c09711b]
-Pastry Roll  Fruit Preserves Topping 3.25
-Pastry Roll  Shredded Cabbage Topping 3.25
-Jelly Roll  Shredded Carrots Topping  Peanut Sauce  Peanut Sauce 5.0
-Jelly Roll  Fruit Preserves Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.0
-Sausage Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 6.5
-Sausage Roll  Shredded Cabbage Topping 4.5
-Spring Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
-Spring Roll  Fruit Preserves Topping  Dark Chocolate Sauce 5.0
-Egg Roll  Shredded Carrots Topping  Cranberry Sauce 5.25
-Egg Roll  Fruit Preserves Topping 4.25
-NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+Sausage Roll  Peanut Sauce 5.0
+Spring Roll  Mozzarella Cheese Topping 4.0
+Spring Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.5
+Egg Roll  Peanut Sauce 4.75
+Egg Roll  Powdered Sugar Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.25
 
 Inventory at the end of Day 2.
-Leftover Spring Rolls: 19
-Leftover Egg Rolls: 10
-Leftover Pastry Rolls: 0
-Leftover Sausage Rolls: 1
-Leftover Jelly Rolls: 2
+Leftover Spring Rolls: 6
+Leftover Egg Rolls: 18
+Leftover Pastry Rolls: 14
+Leftover Sausage Rolls: 7
+Leftover Jelly Rolls: 7
 
 ====================================================================================================
 
 Today is Day 3.
-Initial Spring Rolls: 19
-Initial Egg Rolls: 10
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 1
-Initial Jelly Rolls: 2
+Initial Spring Rolls: 6
+Initial Egg Rolls: 18
+Initial Pastry Rolls: 14
+Initial Sausage Rolls: 7
+Initial Jelly Rolls: 7
 
 ====================================================================================================
 
-order: [restaurant.PastryRoll@b97c004, restaurant.PastryRoll@4590c9c3, restaurant.PastryRoll@32e6e9c3, restaurant.PastryRoll@5056dfcb, restaurant.PastryRoll@6574b225, restaurant.EggRoll@2669b199, restaurant.EggRoll@2344fc66, restaurant.EggRoll@458ad742, restaurant.EggRoll@5afa04c, restaurant.EggRoll@6ea12c19]
-Pastry Roll  Peanut Sauce 3.75
-Pastry Roll  Powdered Sugar Topping  Sweet & Sour Sauce 4.25
-Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 4.75
-Pastry Roll  Fruit Preserves Topping  Marinara Sauce  Marinara Sauce 5.25
-Pastry Roll  Shredded Carrots Topping  Cranberry Sauce  Cranberry Sauce 5.25
-Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.25
-Egg Roll  Marinara Sauce 4.75
-Egg Roll  Powdered Sugar Topping 4.25
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+order: [restaurant.PastryRoll@7f560810, restaurant.PastryRoll@69d9c55, restaurant.PastryRoll@13a57a3b, restaurant.PastryRoll@7ca48474, restaurant.PastryRoll@337d0578, restaurant.JellyRoll@59e84876, restaurant.JellyRoll@61a485d2, restaurant.JellyRoll@39fb3ab6, restaurant.JellyRoll@6276ae34, restaurant.JellyRoll@7946e1f4, restaurant.EggRoll@3c09711b, restaurant.EggRoll@5cc7c2a6, restaurant.EggRoll@b97c004, restaurant.EggRoll@4590c9c3, restaurant.EggRoll@32e6e9c3]
+Pastry Roll  Shredded Cabbage Topping 3.25
+Pastry Roll  Dark Chocolate Sauce 3.75
+Pastry Roll  Shredded Cabbage Topping  Peanut Sauce 4.25
+Pastry Roll 2.75
+Pastry Roll 2.75
+Jelly Roll  Shredded Cabbage Topping  Peanut Sauce 4.0
+Jelly Roll  Peanut Sauce 3.5
+Jelly Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 4.5
+Jelly Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.5
+Jelly Roll 2.5
+Egg Roll  Sweet & Sour Sauce 4.75
 Egg Roll  Cranberry Sauce 4.75
-Egg Roll  Peanut Sauce 4.75
-Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-Casual Customer: 
-Original Purchase: {Egg Roll=2}
-order: [restaurant.EggRoll@6a024a67, restaurant.EggRoll@7921b0a2]
-Egg Roll  Powdered Sugar Topping 4.25
-Egg Roll  Peanut Sauce  Peanut Sauce 5.75
-Casual Customer: 
-Original Purchase: {Egg Roll=3}
-order: [restaurant.EggRoll@174d20a, restaurant.EggRoll@66d2e7d9, restaurant.EggRoll@1efbd816]
-Egg Roll  Peanut Sauce  Peanut Sauce 5.75
-Egg Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.75
-Egg Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce 5.25
-Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-Casual Customer: 
-Original Purchase: {Egg Roll=1}
-Casual Customer: 
-Original Purchase: {Sausage Roll=1}
-Casual Customer: 
-Original Purchase: {Sausage Roll=1}
-Casual Customer: 
-Original Purchase: {Egg Roll=1}
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-order: [restaurant.SpringRoll@6a2bcfcb, restaurant.SpringRoll@4de8b406, restaurant.SpringRoll@3c756e4d]
-Spring Roll 3.5
-Spring Roll 3.5
-Spring Roll  Fruit Preserves Topping 4.0
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-order: [restaurant.SpringRoll@7c0e2abd, restaurant.SpringRoll@48eff760, restaurant.SpringRoll@402f32ff]
-Spring Roll  Mozzarella Cheese Topping  Peanut Sauce 5.0
-Spring Roll  Peanut Sauce  Peanut Sauce 5.5
-Spring Roll  Fruit Preserves Topping  Marinara Sauce  Marinara Sauce 6.0
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-order: [restaurant.SpringRoll@573f2bb1, restaurant.SpringRoll@5ae9a829]
-Spring Roll  Fruit Preserves Topping 4.0
-Spring Roll  Sweet & Sour Sauce 4.5
+Egg Roll  Shredded Carrots Topping  Cranberry Sauce 5.25
+Egg Roll 3.75
+Egg Roll  Fruit Preserves Topping  Dark Chocolate Sauce 5.25
 Casual Customer: 
 Original Purchase: {Pastry Roll=1}
-order: [restaurant.PastryRoll@6d8a00e3]
-Pastry Roll  Fruit Preserves Topping  Marinara Sauce  Marinara Sauce 5.25
+order: [restaurant.PastryRoll@5056dfcb]
+Pastry Roll  Marinara Sauce  Marinara Sauce 4.75
 Casual Customer: 
 Original Purchase: {Sausage Roll=1}
+order: [restaurant.SausageRoll@6574b225]
+Sausage Roll  Fruit Preserves Topping  Marinara Sauce  Marinara Sauce 6.5
 Casual Customer: 
-Original Purchase: {Egg Roll=1}
+Original Purchase: {Spring Roll=3}
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+order: [restaurant.JellyRoll@2669b199, restaurant.JellyRoll@2344fc66]
+Jelly Roll  Dark Chocolate Sauce 3.5
+Jelly Roll 2.5
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+order: [restaurant.SausageRoll@458ad742]
+Sausage Roll  Cranberry Sauce  Cranberry Sauce 6.0
 Casual Customer: 
 Original Purchase: {Pastry Roll=3}
-order: [restaurant.PastryRoll@548b7f67, restaurant.PastryRoll@7ac7a4e4, restaurant.PastryRoll@6d78f375]
-Pastry Roll  Peanut Sauce  Peanut Sauce 4.75
-Pastry Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.25
-Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce 4.25
+order: [restaurant.PastryRoll@5afa04c, restaurant.PastryRoll@6ea12c19, restaurant.PastryRoll@6a024a67]
+Pastry Roll  Shredded Cabbage Topping  Marinara Sauce 4.25
+Pastry Roll  Fruit Preserves Topping 3.25
+Pastry Roll 2.75
 Casual Customer: 
 Original Purchase: {Egg Roll=3}
+order: [restaurant.EggRoll@7921b0a2, restaurant.EggRoll@174d20a, restaurant.EggRoll@66d2e7d9]
+Egg Roll 3.75
+Egg Roll  Shredded Carrots Topping 4.25
+Egg Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.75
 Casual Customer: 
-Original Purchase: {Egg Roll=1}
-Casual Customer: 
-Original Purchase: {Egg Roll=3}
-Casual Customer: 
-Original Purchase: {Egg Roll=1}
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-order: [restaurant.SpringRoll@50c87b21, restaurant.SpringRoll@5f375618, restaurant.SpringRoll@1810399e]
-Spring Roll  Sweet & Sour Sauce 4.5
-Spring Roll  Fruit Preserves Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
-Spring Roll  Peanut Sauce  Peanut Sauce 5.5
-Casual Customer: 
-Original Purchase: {Pastry Roll=1}
-order: [restaurant.PastryRoll@32d992b2]
-Pastry Roll  Marinara Sauce 3.75
-Casual Customer: 
-Original Purchase: {Egg Roll=1}
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-order: [restaurant.SpringRoll@215be6bb, restaurant.SpringRoll@4439f31e]
-Spring Roll  Shredded Carrots Topping  Marinara Sauce 5.0
-Spring Roll  Fruit Preserves Topping  Dark Chocolate Sauce 5.0
-Casual Customer: 
-Original Purchase: {Egg Roll=3}
+Original Purchase: {Sausage Roll=2}
 Casual Customer: 
 Original Purchase: {Pastry Roll=2}
-order: [restaurant.PastryRoll@5dfcfece, restaurant.PastryRoll@23ceabc1]
-Pastry Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.75
-Pastry Roll  Fruit Preserves Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.25
-NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+order: [restaurant.EggRoll@1efbd816]
+Egg Roll  Powdered Sugar Topping  Cranberry Sauce 5.25
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+order: [restaurant.EggRoll@6a2bcfcb, restaurant.EggRoll@4de8b406]
+Egg Roll  Marinara Sauce 4.75
+Egg Roll  Shredded Cabbage Topping  Marinara Sauce 5.25
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+order: [restaurant.EggRoll@3c756e4d, restaurant.EggRoll@7c0e2abd]
+Egg Roll  Peanut Sauce  Peanut Sauce 5.75
+Egg Roll 3.75
+
+================================Store Closing All Sold Out!====================================
+
 
 Inventory at the end of Day 3.
-Leftover Spring Rolls: 4
+Leftover Spring Rolls: 0
 Leftover Egg Rolls: 0
-Leftover Pastry Rolls: 16
+Leftover Pastry Rolls: 0
 Leftover Sausage Rolls: 0
 Leftover Jelly Rolls: 0
 
 ====================================================================================================
 
 Today is Day 4.
-Initial Spring Rolls: 4
+Initial Spring Rolls: 30
 Initial Egg Rolls: 30
-Initial Pastry Rolls: 16
+Initial Pastry Rolls: 30
 Initial Sausage Rolls: 30
 Initial Jelly Rolls: 30
 
 ====================================================================================================
 
-order: [restaurant.PastryRoll@5d5eef3d, restaurant.PastryRoll@56f4468b, restaurant.PastryRoll@6cc4c815, restaurant.PastryRoll@3a82f6ef, restaurant.PastryRoll@100fc185, restaurant.SausageRoll@643b1d11, restaurant.SausageRoll@2ef5e5e3, restaurant.SausageRoll@36d4b5c, restaurant.SausageRoll@6d00a15d, restaurant.SausageRoll@51efea79]
-Pastry Roll 2.75
-Pastry Roll  Marinara Sauce 3.75
-Pastry Roll  Powdered Sugar Topping 3.25
-Pastry Roll  Cranberry Sauce  Cranberry Sauce 4.75
-Pastry Roll 2.75
-Sausage Roll 4.0
-Sausage Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
-Sausage Roll  Marinara Sauce  Marinara Sauce 6.0
-Sausage Roll  Fruit Preserves Topping  Peanut Sauce  Peanut Sauce 6.5
-Sausage Roll  Peanut Sauce 5.0
-order: [restaurant.PastryRoll@5034c75a, restaurant.PastryRoll@396a51ab, restaurant.PastryRoll@51081592, restaurant.PastryRoll@7f9a81e8, restaurant.PastryRoll@9629756]
-Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 4.75
-Pastry Roll  Sweet & Sour Sauce 3.75
-Pastry Roll  Cranberry Sauce 3.75
-Pastry Roll  Marinara Sauce 3.75
-Pastry Roll 2.75
-NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+order: [restaurant.SpringRoll@48eff760, restaurant.SpringRoll@402f32ff, restaurant.SpringRoll@573f2bb1, restaurant.SpringRoll@5ae9a829, restaurant.SpringRoll@6d8a00e3, restaurant.SpringRoll@548b7f67, restaurant.SpringRoll@7ac7a4e4, restaurant.SpringRoll@6d78f375, restaurant.SpringRoll@50c87b21, restaurant.SpringRoll@5f375618, restaurant.EggRoll@1810399e, restaurant.EggRoll@32d992b2, restaurant.EggRoll@215be6bb, restaurant.EggRoll@4439f31e, restaurant.EggRoll@5dfcfece]
+Spring Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
+Spring Roll  Powdered Sugar Topping 4.0
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
+Spring Roll  Powdered Sugar Topping  Marinara Sauce 5.0
+Spring Roll  Peanut Sauce 4.5
+Spring Roll 3.5
+Spring Roll  Peanut Sauce  Peanut Sauce 5.5
+Spring Roll  Cranberry Sauce 4.5
+Spring Roll  Peanut Sauce  Peanut Sauce 5.5
+Spring Roll  Fruit Preserves Topping 4.0
+Egg Roll 3.75
+Egg Roll  Marinara Sauce  Marinara Sauce 5.75
+Egg Roll 3.75
+Egg Roll 3.75
+Egg Roll  Shredded Cabbage Topping  Marinara Sauce 5.25
 Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-order: [restaurant.JellyRoll@62ee68d8, restaurant.JellyRoll@735b5592, restaurant.JellyRoll@58651fd0]
+Original Purchase: {Sausage Roll=2}
+order: [restaurant.SausageRoll@23ceabc1, restaurant.SausageRoll@5d5eef3d]
+Sausage Roll 4.0
+Sausage Roll 4.0
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+order: [restaurant.JellyRoll@56f4468b, restaurant.JellyRoll@6cc4c815]
 Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
-Jelly Roll  Shredded Cabbage Topping  Peanut Sauce 4.0
+Jelly Roll  Sweet & Sour Sauce 3.5
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+order: [restaurant.SpringRoll@3a82f6ef, restaurant.SpringRoll@100fc185, restaurant.SpringRoll@643b1d11]
+Spring Roll  Marinara Sauce  Marinara Sauce 5.5
+Spring Roll 3.5
+Spring Roll  Shredded Cabbage Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+order: [restaurant.JellyRoll@2ef5e5e3, restaurant.JellyRoll@36d4b5c]
+Jelly Roll 2.5
+Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+order: [restaurant.JellyRoll@6d00a15d, restaurant.JellyRoll@51efea79]
 Jelly Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 5.0
+Jelly Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 5.0
 Casual Customer: 
-Original Purchase: {Spring Roll=3}
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-order: [restaurant.SausageRoll@4520ebad, restaurant.SausageRoll@5419f379]
-Sausage Roll 4.0
-Sausage Roll  Fruit Preserves Topping  Sweet & Sour Sauce 5.5
-Casual Customer: 
-Original Purchase: {Spring Roll=1}
-Casual Customer: 
-Original Purchase: {Sausage Roll=1}
-order: [restaurant.SausageRoll@7dc7cbad]
-Sausage Roll  Marinara Sauce  Marinara Sauce 6.0
-Casual Customer: 
-Original Purchase: {Egg Roll=3}
-order: [restaurant.EggRoll@d2cc05a, restaurant.EggRoll@4f933fd1, restaurant.EggRoll@548a9f61]
-Egg Roll  Shredded Cabbage Topping  Peanut Sauce 5.25
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.75
-Egg Roll  Powdered Sugar Topping  Peanut Sauce  Peanut Sauce 6.25
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-Casual Customer: 
-Original Purchase: {Jelly Roll=1}
-order: [restaurant.JellyRoll@1753acfe]
-Jelly Roll  Shredded Carrots Topping 3.0
-Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-order: [restaurant.SausageRoll@7c16905e, restaurant.SausageRoll@2a2d45ba]
+Original Purchase: {Pastry Roll=3}
+order: [restaurant.PastryRoll@5034c75a, restaurant.PastryRoll@396a51ab, restaurant.PastryRoll@51081592]
+Pastry Roll  Sweet & Sour Sauce 3.75
+Pastry Roll 2.75
+Pastry Roll  Shredded Carrots Topping  Dark Chocolate Sauce 4.25
+order: [restaurant.PastryRoll@7f9a81e8, restaurant.PastryRoll@9629756, restaurant.JellyRoll@62ee68d8, restaurant.JellyRoll@735b5592, restaurant.SausageRoll@58651fd0, restaurant.SausageRoll@4520ebad, restaurant.SpringRoll@5419f379, restaurant.SpringRoll@7dc7cbad, restaurant.EggRoll@d2cc05a, restaurant.EggRoll@4f933fd1]
+Pastry Roll  Shredded Cabbage Topping  Cranberry Sauce 4.25
+Pastry Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 5.25
+Jelly Roll  Fruit Preserves Topping 3.0
+Jelly Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.0
 Sausage Roll  Marinara Sauce  Marinara Sauce 6.0
 Sausage Roll  Shredded Cabbage Topping 4.5
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-order: [restaurant.JellyRoll@2a5ca609, restaurant.JellyRoll@20e2cbe0, restaurant.JellyRoll@68be2bc2]
-Jelly Roll  Fruit Preserves Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.0
-Jelly Roll 2.5
-Jelly Roll  Mozzarella Cheese Topping  Marinara Sauce 4.0
-Casual Customer: 
-Original Purchase: {Jelly Roll=1}
-order: [restaurant.JellyRoll@28feb3fa]
-Jelly Roll  Fruit Preserves Topping 3.0
-Casual Customer: 
-Original Purchase: {Egg Roll=3}
-order: [restaurant.EggRoll@675d3402, restaurant.EggRoll@51565ec2, restaurant.EggRoll@482f8f11]
-Egg Roll 3.75
-Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.75
-Egg Roll  Shredded Cabbage Topping 4.25
-Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-order: [restaurant.SausageRoll@1593948d, restaurant.SausageRoll@1b604f19]
-Sausage Roll 4.0
-Sausage Roll  Shredded Carrots Topping 4.5
-Casual Customer: 
-Original Purchase: {Pastry Roll=1}
-order: [restaurant.PastryRoll@7823a2f9]
-Pastry Roll  Peanut Sauce  Peanut Sauce 4.75
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-order: [restaurant.JellyRoll@4cc0edeb, restaurant.JellyRoll@457e2f02, restaurant.JellyRoll@5c7fa833]
-Jelly Roll  Mozzarella Cheese Topping 3.0
-Jelly Roll  Shredded Cabbage Topping 3.0
-Jelly Roll 2.5
-NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
-NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
-NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+Spring Roll  Shredded Carrots Topping 4.0
+Spring Roll  Fruit Preserves Topping 4.0
+Egg Roll  Cranberry Sauce 4.75
+Egg Roll  Mozzarella Cheese Topping 4.25
 
 Inventory at the end of Day 4.
-Leftover Spring Rolls: 0
-Leftover Egg Rolls: 13
-Leftover Pastry Rolls: 0
-Leftover Sausage Rolls: 12
-Leftover Jelly Rolls: 8
+Leftover Spring Rolls: 15
+Leftover Egg Rolls: 23
+Leftover Pastry Rolls: 25
+Leftover Sausage Rolls: 26
+Leftover Jelly Rolls: 22
 
 ====================================================================================================
 
 Today is Day 5.
-Initial Spring Rolls: 30
-Initial Egg Rolls: 13
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 12
-Initial Jelly Rolls: 8
+Initial Spring Rolls: 15
+Initial Egg Rolls: 23
+Initial Pastry Rolls: 25
+Initial Sausage Rolls: 26
+Initial Jelly Rolls: 22
 
 ====================================================================================================
 
-order: [restaurant.PastryRoll@39aeed2f, restaurant.PastryRoll@724af044, restaurant.PastryRoll@4678c730, restaurant.PastryRoll@6767c1fc, restaurant.PastryRoll@29ee9faa, restaurant.JellyRoll@c038203, restaurant.JellyRoll@cc285f4, restaurant.JellyRoll@55f3ddb1, restaurant.JellyRoll@8bd1b6a, restaurant.JellyRoll@18be83e4, restaurant.SpringRoll@cb5822, restaurant.SpringRoll@4b9e13df, restaurant.SpringRoll@2b98378d, restaurant.SpringRoll@475530b9, restaurant.SpringRoll@1d057a39]
-Pastry Roll  Powdered Sugar Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.25
-Pastry Roll  Powdered Sugar Topping  Cranberry Sauce 4.25
-Pastry Roll  Shredded Cabbage Topping  Marinara Sauce  Marinara Sauce 5.25
-Pastry Roll  Marinara Sauce  Marinara Sauce 4.75
+order: [restaurant.PastryRoll@548a9f61, restaurant.PastryRoll@1753acfe, restaurant.PastryRoll@7c16905e, restaurant.PastryRoll@2a2d45ba, restaurant.PastryRoll@2a5ca609, restaurant.JellyRoll@20e2cbe0, restaurant.JellyRoll@68be2bc2, restaurant.JellyRoll@28feb3fa, restaurant.JellyRoll@675d3402, restaurant.JellyRoll@51565ec2, restaurant.SausageRoll@482f8f11, restaurant.SausageRoll@1593948d, restaurant.SausageRoll@1b604f19, restaurant.SausageRoll@7823a2f9, restaurant.SausageRoll@4cc0edeb]
+Pastry Roll  Peanut Sauce 3.75
+Pastry Roll  Fruit Preserves Topping 3.25
+Pastry Roll  Shredded Carrots Topping 3.25
 Pastry Roll 2.75
-Jelly Roll  Fruit Preserves Topping  Peanut Sauce 4.0
-Jelly Roll  Powdered Sugar Topping  Dark Chocolate Sauce 4.0
+Pastry Roll  Marinara Sauce  Marinara Sauce 4.75
+Jelly Roll  Shredded Cabbage Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.0
 Jelly Roll 2.5
-Jelly Roll  Fruit Preserves Topping  Sweet & Sour Sauce 4.0
-Jelly Roll 2.5
-Spring Roll  Shredded Carrots Topping 4.0
-Spring Roll  Marinara Sauce  Marinara Sauce 5.5
-Spring Roll  Shredded Carrots Topping 4.0
-Spring Roll 3.5
-Spring Roll  Powdered Sugar Topping  Marinara Sauce 5.0
-NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Jelly Roll  Shredded Cabbage Topping  Marinara Sauce 4.0
+Jelly Roll  Fruit Preserves Topping  Dark Chocolate Sauce 4.0
+Jelly Roll  Shredded Cabbage Topping  Peanut Sauce 4.0
+Sausage Roll  Shredded Carrots Topping  Cranberry Sauce 5.5
+Sausage Roll  Fruit Preserves Topping  Marinara Sauce  Marinara Sauce 6.5
+Sausage Roll 4.0
+Sausage Roll  Powdered Sugar Topping 4.5
+Sausage Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 6.5
 Casual Customer: 
-Original Purchase: {Sausage Roll=3}
-order: [restaurant.SausageRoll@26be92ad, restaurant.SausageRoll@4c70fda8, restaurant.SausageRoll@224edc67]
-Sausage Roll  Dark Chocolate Sauce 5.0
-Sausage Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.5
-Sausage Roll  Dark Chocolate Sauce 5.0
+Original Purchase: {Jelly Roll=2}
+order: [restaurant.JellyRoll@457e2f02, restaurant.JellyRoll@5c7fa833]
+Jelly Roll  Shredded Cabbage Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.0
+Jelly Roll  Peanut Sauce  Peanut Sauce 4.5
 Casual Customer: 
-Original Purchase: {Spring Roll=3}
-order: [restaurant.SpringRoll@14acaea5, restaurant.SpringRoll@46d56d67, restaurant.SpringRoll@d8355a8]
-Spring Roll 3.5
-Spring Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
-Spring Roll  Fruit Preserves Topping  Peanut Sauce 5.0
-Casual Customer: 
-Original Purchase: {Egg Roll=2}
-order: [restaurant.EggRoll@59fa1d9b, restaurant.EggRoll@28d25987]
-Egg Roll  Cranberry Sauce 4.75
-Egg Roll  Shredded Carrots Topping  Peanut Sauce  Peanut Sauce 6.25
-Casual Customer: 
-Original Purchase: {Egg Roll=2}
-order: [restaurant.EggRoll@4501b7af, restaurant.EggRoll@523884b2]
+Original Purchase: {Egg Roll=3}
+order: [restaurant.EggRoll@39aeed2f, restaurant.EggRoll@724af044, restaurant.EggRoll@4678c730]
+Egg Roll  Shredded Cabbage Topping  Cranberry Sauce  Cranberry Sauce 6.25
+Egg Roll  Shredded Carrots Topping  Cranberry Sauce  Cranberry Sauce 6.25
 Egg Roll 3.75
-Egg Roll  Shredded Cabbage Topping 4.25
-Casual Customer: 
-Original Purchase: {Egg Roll=2}
-order: [restaurant.EggRoll@5b275dab, restaurant.EggRoll@61832929]
-Egg Roll  Shredded Carrots Topping 4.25
-Egg Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 6.25
-NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
-NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
-NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+order: [restaurant.PastryRoll@6767c1fc, restaurant.PastryRoll@29ee9faa, restaurant.JellyRoll@c038203, restaurant.JellyRoll@cc285f4, restaurant.SausageRoll@55f3ddb1, restaurant.SausageRoll@8bd1b6a, restaurant.SpringRoll@18be83e4, restaurant.SpringRoll@cb5822, restaurant.EggRoll@4b9e13df, restaurant.EggRoll@2b98378d]
+Pastry Roll  Shredded Cabbage Topping  Peanut Sauce 4.25
+Pastry Roll 2.75
+Jelly Roll 2.5
+Jelly Roll  Sweet & Sour Sauce 3.5
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 6.5
+Sausage Roll  Powdered Sugar Topping  Peanut Sauce  Peanut Sauce 6.5
+Spring Roll 3.5
+Spring Roll  Mozzarella Cheese Topping 4.0
+Egg Roll  Powdered Sugar Topping 4.25
+Egg Roll  Fruit Preserves Topping 4.25
+order: [restaurant.PastryRoll@475530b9, restaurant.PastryRoll@1d057a39, restaurant.JellyRoll@26be92ad, restaurant.JellyRoll@4c70fda8, restaurant.SausageRoll@224edc67, restaurant.SausageRoll@14acaea5, restaurant.SpringRoll@46d56d67, restaurant.SpringRoll@d8355a8, restaurant.EggRoll@59fa1d9b, restaurant.EggRoll@28d25987]
+Pastry Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 5.25
+Pastry Roll  Cranberry Sauce  Cranberry Sauce 4.75
+Jelly Roll  Shredded Carrots Topping  Marinara Sauce 4.0
+Jelly Roll 2.5
+Sausage Roll  Cranberry Sauce 5.0
+Sausage Roll  Peanut Sauce 5.0
+Spring Roll  Powdered Sugar Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
+Spring Roll  Fruit Preserves Topping 4.0
+Egg Roll  Marinara Sauce 4.75
+Egg Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.75
 
 Inventory at the end of Day 5.
-Leftover Spring Rolls: 16
-Leftover Egg Rolls: 1
-Leftover Pastry Rolls: 14
-Leftover Sausage Rolls: 0
-Leftover Jelly Rolls: 0
+Leftover Spring Rolls: 11
+Leftover Egg Rolls: 16
+Leftover Pastry Rolls: 16
+Leftover Sausage Rolls: 17
+Leftover Jelly Rolls: 11
 
 ====================================================================================================
 
 Today is Day 6.
-Initial Spring Rolls: 16
-Initial Egg Rolls: 1
-Initial Pastry Rolls: 14
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 30
+Initial Spring Rolls: 11
+Initial Egg Rolls: 16
+Initial Pastry Rolls: 16
+Initial Sausage Rolls: 17
+Initial Jelly Rolls: 11
 
 ====================================================================================================
 
-NOT ENOUGH INVENTORY TO FILL CATERING ORDER
-order: [restaurant.SpringRoll@29774679, restaurant.SpringRoll@3ffc5af1, restaurant.SpringRoll@5e5792a0, restaurant.SpringRoll@26653222, restaurant.SpringRoll@3532ec19]
+order: [restaurant.JellyRoll@4501b7af, restaurant.JellyRoll@523884b2, restaurant.JellyRoll@5b275dab, restaurant.JellyRoll@61832929, restaurant.JellyRoll@29774679]
+Jelly Roll 2.5
+Jelly Roll 2.5
+Jelly Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 5.0
+Jelly Roll  Mozzarella Cheese Topping  Peanut Sauce  Peanut Sauce 5.0
+Jelly Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 4.5
+order: [restaurant.JellyRoll@3ffc5af1, restaurant.JellyRoll@5e5792a0, restaurant.JellyRoll@26653222, restaurant.JellyRoll@3532ec19, restaurant.JellyRoll@68c4039c, restaurant.SausageRoll@ae45eb6, restaurant.SausageRoll@59f99ea, restaurant.SausageRoll@27efef64, restaurant.SausageRoll@6f7fd0e6, restaurant.SausageRoll@47c62251, restaurant.EggRoll@3e6fa38a, restaurant.EggRoll@66a3ffec, restaurant.EggRoll@77caeb3e, restaurant.EggRoll@1e88b3c, restaurant.EggRoll@42d80b78]
+Jelly Roll  Marinara Sauce 3.5
+Jelly Roll  Shredded Carrots Topping  Peanut Sauce  Peanut Sauce 5.0
+Jelly Roll  Cranberry Sauce 3.5
+Jelly Roll  Shredded Carrots Topping  Marinara Sauce  Marinara Sauce 5.0
+Jelly Roll  Shredded Carrots Topping 3.0
+Sausage Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce 6.5
+Sausage Roll  Marinara Sauce  Marinara Sauce 6.0
+Sausage Roll  Powdered Sugar Topping 4.5
+Sausage Roll  Peanut Sauce  Peanut Sauce 6.0
+Sausage Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
+Egg Roll  Shredded Cabbage Topping 4.25
+Egg Roll  Shredded Carrots Topping  Marinara Sauce  Marinara Sauce 6.25
+Egg Roll  Mozzarella Cheese Topping  Peanut Sauce  Peanut Sauce 6.25
+Egg Roll 3.75
+Egg Roll  Peanut Sauce 4.75
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+order: [restaurant.SpringRoll@3bfdc050, restaurant.SpringRoll@1bce4f0a, restaurant.SpringRoll@5e3a8624]
 Spring Roll  Mozzarella Cheese Topping 4.0
 Spring Roll 3.5
-Spring Roll 3.5
-Spring Roll 3.5
-Spring Roll  Shredded Cabbage Topping 4.0
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
 Casual Customer: 
-Original Purchase: {Egg Roll=3}
-Casual Customer: 
-Original Purchase: {Sausage Roll=3}
-order: [restaurant.SausageRoll@68c4039c, restaurant.SausageRoll@ae45eb6, restaurant.SausageRoll@59f99ea]
-Sausage Roll  Sweet & Sour Sauce 5.0
-Sausage Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
-Sausage Roll  Fruit Preserves Topping 4.5
-Casual Customer: 
-Original Purchase: {Jelly Roll=1}
-order: [restaurant.JellyRoll@27efef64]
-Jelly Roll 2.5
-Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-order: [restaurant.SausageRoll@6f7fd0e6, restaurant.SausageRoll@47c62251]
-Sausage Roll  Shredded Cabbage Topping 4.5
-Sausage Roll  Shredded Carrots Topping 4.5
-Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-order: [restaurant.SausageRoll@3e6fa38a, restaurant.SausageRoll@66a3ffec]
-Sausage Roll  Mozzarella Cheese Topping 4.5
-Sausage Roll  Sweet & Sour Sauce 5.0
-Casual Customer: 
-Original Purchase: {Pastry Roll=1}
-order: [restaurant.PastryRoll@77caeb3e]
-Pastry Roll  Shredded Cabbage Topping 3.25
-Casual Customer: 
-Original Purchase: {Jelly Roll=2}
-order: [restaurant.JellyRoll@1e88b3c, restaurant.JellyRoll@42d80b78]
-Jelly Roll  Dark Chocolate Sauce 3.5
-Jelly Roll  Powdered Sugar Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.0
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-order: [restaurant.JellyRoll@3bfdc050, restaurant.JellyRoll@1bce4f0a, restaurant.JellyRoll@5e3a8624]
-Jelly Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.0
-Jelly Roll  Marinara Sauce  Marinara Sauce 4.5
-Jelly Roll  Shredded Carrots Topping  Peanut Sauce 4.0
+Original Purchase: {Pastry Roll=3}
+order: [restaurant.PastryRoll@5c3bd550, restaurant.PastryRoll@91161c7, restaurant.PastryRoll@604ed9f0]
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce 4.25
+Pastry Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.25
+Pastry Roll  Shredded Carrots Topping 3.25
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 6.
 Leftover Spring Rolls: 4
-Leftover Egg Rolls: 0
-Leftover Pastry Rolls: 11
-Leftover Sausage Rolls: 21
-Leftover Jelly Rolls: 17
+Leftover Egg Rolls: 7
+Leftover Pastry Rolls: 9
+Leftover Sausage Rolls: 8
+Leftover Jelly Rolls: 0
 
 ====================================================================================================
 
 Today is Day 7.
 Initial Spring Rolls: 4
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 11
-Initial Sausage Rolls: 21
-Initial Jelly Rolls: 17
+Initial Egg Rolls: 7
+Initial Pastry Rolls: 9
+Initial Sausage Rolls: 8
+Initial Jelly Rolls: 30
 
 ====================================================================================================
 
-order: [restaurant.JellyRoll@5c3bd550, restaurant.JellyRoll@91161c7, restaurant.JellyRoll@604ed9f0, restaurant.JellyRoll@6a4f787b, restaurant.JellyRoll@685cb137, restaurant.EggRoll@6a41eaa2, restaurant.EggRoll@7cd62f43, restaurant.EggRoll@6d4b1c02, restaurant.EggRoll@6093dd95, restaurant.EggRoll@5622fdf]
-Jelly Roll 2.5
-Jelly Roll  Mozzarella Cheese Topping  Marinara Sauce 4.0
-Jelly Roll  Marinara Sauce 3.5
-Jelly Roll 2.5
-Jelly Roll  Powdered Sugar Topping  Cranberry Sauce 4.0
-Egg Roll  Fruit Preserves Topping  Sweet & Sour Sauce 5.25
-Egg Roll  Shredded Cabbage Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.25
-Egg Roll 3.75
-Egg Roll  Shredded Cabbage Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.25
-Egg Roll  Peanut Sauce 4.75
-order: [restaurant.JellyRoll@4883b407, restaurant.JellyRoll@7d9d1a19, restaurant.JellyRoll@39c0f4a, restaurant.JellyRoll@1794d431, restaurant.JellyRoll@42e26948, restaurant.EggRoll@57baeedf, restaurant.EggRoll@343f4d3d, restaurant.EggRoll@53b32d7, restaurant.EggRoll@5442a311, restaurant.EggRoll@548e7350]
-Jelly Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.0
-Jelly Roll  Sweet & Sour Sauce 3.5
-Jelly Roll  Shredded Cabbage Topping  Marinara Sauce 4.0
-Jelly Roll  Powdered Sugar Topping  Peanut Sauce 4.0
-Jelly Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.5
-Egg Roll  Mozzarella Cheese Topping 4.25
-Egg Roll 3.75
-Egg Roll  Shredded Carrots Topping 4.25
-Egg Roll  Dark Chocolate Sauce 4.75
-Egg Roll  Dark Chocolate Sauce 4.75
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+order: [restaurant.EggRoll@6a4f787b, restaurant.EggRoll@685cb137]
+Egg Roll  Sweet & Sour Sauce 4.75
+Egg Roll  Marinara Sauce  Marinara Sauce 5.75
 Casual Customer: 
 Original Purchase: {Egg Roll=3}
-order: [restaurant.EggRoll@1a968a59, restaurant.EggRoll@4667ae56, restaurant.EggRoll@77cd7a0]
-Egg Roll  Shredded Carrots Topping 4.25
-Egg Roll  Fruit Preserves Topping 4.25
+order: [restaurant.EggRoll@6a41eaa2, restaurant.EggRoll@7cd62f43, restaurant.EggRoll@6d4b1c02]
+Egg Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.75
 Egg Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.25
+Egg Roll  Powdered Sugar Topping  Sweet & Sour Sauce 5.25
 Casual Customer: 
-Original Purchase: {Egg Roll=3}
-order: [restaurant.EggRoll@204f30ec, restaurant.EggRoll@e25b2fe, restaurant.EggRoll@754ba872]
-Egg Roll  Powdered Sugar Topping  Peanut Sauce 5.25
-Egg Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 6.25
-Egg Roll  Marinara Sauce 4.75
+Original Purchase: {Pastry Roll=2}
 Casual Customer: 
-Original Purchase: {Sausage Roll=3}
-order: [restaurant.SausageRoll@146ba0ac, restaurant.SausageRoll@4dfa3a9d, restaurant.SausageRoll@6eebc39e]
-Sausage Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 6.5
-Sausage Roll  Mozzarella Cheese Topping 4.5
-Sausage Roll 4.0
+Original Purchase: {Jelly Roll=3}
+order: [restaurant.JellyRoll@6093dd95, restaurant.JellyRoll@5622fdf, restaurant.JellyRoll@4883b407]
+Jelly Roll  Fruit Preserves Topping 3.0
+Jelly Roll  Shredded Cabbage Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.0
+Jelly Roll 2.5
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+order: [restaurant.SpringRoll@7d9d1a19, restaurant.SpringRoll@39c0f4a]
+Spring Roll  Powdered Sugar Topping  Marinara Sauce 5.0
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+order: [restaurant.JellyRoll@1794d431, restaurant.JellyRoll@42e26948]
+Jelly Roll  Fruit Preserves Topping 3.0
+Jelly Roll 2.5
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+order: [restaurant.JellyRoll@57baeedf]
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce 5.0
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+order: [restaurant.SpringRoll@343f4d3d]
+Spring Roll  Mozzarella Cheese Topping 4.0
 Casual Customer: 
 Original Purchase: {Sausage Roll=2}
-order: [restaurant.SausageRoll@464bee09, restaurant.SausageRoll@f6c48ac]
-Sausage Roll  Shredded Carrots Topping  Cranberry Sauce  Cranberry Sauce 6.5
-Sausage Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-Casual Customer: 
-Original Purchase: {Egg Roll=1}
-order: [restaurant.EggRoll@13deb50e]
-Egg Roll  Marinara Sauce 4.75
 Casual Customer: 
 Original Purchase: {Spring Roll=2}
 Casual Customer: 
-Original Purchase: {Pastry Roll=1}
-order: [restaurant.PastryRoll@239963d8]
-Pastry Roll  Dark Chocolate Sauce 3.75
+Original Purchase: {Sausage Roll=2}
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+order: [restaurant.JellyRoll@53b32d7]
+Jelly Roll  Powdered Sugar Topping 3.0
 Casual Customer: 
 Original Purchase: {Sausage Roll=3}
-order: [restaurant.SausageRoll@3abbfa04, restaurant.SausageRoll@57fffcd7, restaurant.SausageRoll@31ef45e3]
-Sausage Roll  Mozzarella Cheese Topping 4.5
-Sausage Roll  Fruit Preserves Topping 4.5
-Sausage Roll 4.0
 Casual Customer: 
-Original Purchase: {Sausage Roll=1}
-order: [restaurant.SausageRoll@598067a5]
-Sausage Roll  Sweet & Sour Sauce 5.0
+Original Purchase: {Spring Roll=2}
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+order: [restaurant.JellyRoll@5442a311, restaurant.JellyRoll@548e7350]
+Jelly Roll  Sweet & Sour Sauce 3.5
+Jelly Roll  Marinara Sauce 3.5
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+order: [restaurant.JellyRoll@1a968a59]
+Jelly Roll  Marinara Sauce 3.5
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+order: [restaurant.JellyRoll@4667ae56, restaurant.JellyRoll@77cd7a0, restaurant.JellyRoll@204f30ec]
+Jelly Roll  Powdered Sugar Topping 3.0
+Jelly Roll 2.5
+Jelly Roll  Sweet & Sour Sauce 3.5
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 7.
 Leftover Spring Rolls: 0
-Leftover Egg Rolls: 4
-Leftover Pastry Rolls: 6
-Leftover Sausage Rolls: 3
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
 Leftover Jelly Rolls: 3
 
 ====================================================================================================
 
 Today is Day 8.
 Initial Spring Rolls: 30
-Initial Egg Rolls: 4
-Initial Pastry Rolls: 6
-Initial Sausage Rolls: 3
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 30
 Initial Jelly Rolls: 3
 
 ====================================================================================================
@@ -641,278 +565,232 @@ NOT ENOUGH INVENTORY TO FILL CATERING ORDER
 NOT ENOUGH INVENTORY TO FILL CATERING ORDER
 NOT ENOUGH INVENTORY TO FILL CATERING ORDER
 Casual Customer: 
-Original Purchase: {Egg Roll=1}
-Casual Customer: 
-Original Purchase: {Egg Roll=3}
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-order: [restaurant.SpringRoll@3c0ecd4b, restaurant.SpringRoll@14bf9759]
-Spring Roll  Dark Chocolate Sauce 4.5
-Spring Roll  Cranberry Sauce 4.5
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-order: [restaurant.JellyRoll@5f341870, restaurant.JellyRoll@553f17c, restaurant.JellyRoll@4f7d0008]
-Jelly Roll  Fruit Preserves Topping  Cranberry Sauce 4.0
-Jelly Roll  Shredded Carrots Topping 3.0
-Jelly Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 5.0
-Casual Customer: 
-Original Purchase: {Sausage Roll=3}
-Casual Customer: 
-Original Purchase: {Sausage Roll=1}
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-order: [restaurant.SpringRoll@271053e1, restaurant.SpringRoll@589838eb, restaurant.SpringRoll@42dafa95]
-Spring Roll  Fruit Preserves Topping 4.0
-Spring Roll  Powdered Sugar Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
-Spring Roll  Mozzarella Cheese Topping  Peanut Sauce  Peanut Sauce 6.0
-Casual Customer: 
 Original Purchase: {Pastry Roll=1}
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-Casual Customer: 
-Original Purchase: {Egg Roll=2}
-Casual Customer: 
-Original Purchase: {Pastry Roll=1}
-Casual Customer: 
-Original Purchase: {Jelly Roll=1}
-Casual Customer: 
-Original Purchase: {Egg Roll=3}
-Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-Casual Customer: 
-Original Purchase: {Pastry Roll=1}
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-order: [restaurant.SpringRoll@6500df86, restaurant.SpringRoll@402a079c]
-Spring Roll  Shredded Carrots Topping  Peanut Sauce  Peanut Sauce 6.0
-Spring Roll  Marinara Sauce 4.5
-Casual Customer: 
-Original Purchase: {Jelly Roll=1}
-Casual Customer: 
-Original Purchase: {Pastry Roll=1}
-Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-Casual Customer: 
-Original Purchase: {Sausage Roll=3}
-Casual Customer: 
-Original Purchase: {Egg Roll=2}
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-order: [restaurant.SpringRoll@59ec2012, restaurant.SpringRoll@4cf777e8, restaurant.SpringRoll@2f686d1f]
-Spring Roll  Shredded Carrots Topping 4.0
-Spring Roll  Shredded Cabbage Topping  Sweet & Sour Sauce 5.0
-Spring Roll  Shredded Carrots Topping  Peanut Sauce  Peanut Sauce 6.0
+order: [restaurant.PastryRoll@e25b2fe]
+Pastry Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.25
 Casual Customer: 
 Original Purchase: {Egg Roll=1}
+order: [restaurant.EggRoll@754ba872]
+Egg Roll  Mozzarella Cheese Topping  Cranberry Sauce 5.25
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+order: [restaurant.EggRoll@146ba0ac]
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.25
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+order: [restaurant.SausageRoll@4dfa3a9d, restaurant.SausageRoll@6eebc39e, restaurant.SausageRoll@464bee09]
+Sausage Roll  Marinara Sauce 5.0
+Sausage Roll  Shredded Carrots Topping  Marinara Sauce 5.5
+Sausage Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
 Casual Customer: 
 Original Purchase: {Spring Roll=3}
-order: [restaurant.SpringRoll@3fee9989, restaurant.SpringRoll@73ad2d6, restaurant.SpringRoll@7085bdee]
-Spring Roll 3.5
-Spring Roll  Shredded Carrots Topping  Marinara Sauce 5.0
-Spring Roll  Shredded Cabbage Topping  Cranberry Sauce  Cranberry Sauce 6.0
+order: [restaurant.SpringRoll@f6c48ac, restaurant.SpringRoll@13deb50e, restaurant.SpringRoll@239963d8]
+Spring Roll  Shredded Carrots Topping  Peanut Sauce  Peanut Sauce 6.0
+Spring Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
+Spring Roll  Powdered Sugar Topping  Sweet & Sour Sauce 5.0
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+order: [restaurant.EggRoll@3abbfa04]
+Egg Roll  Cranberry Sauce  Cranberry Sauce 5.75
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+order: [restaurant.PastryRoll@57fffcd7]
+Pastry Roll 2.75
 Casual Customer: 
 Original Purchase: {Sausage Roll=2}
+order: [restaurant.SausageRoll@31ef45e3, restaurant.SausageRoll@598067a5]
+Sausage Roll 4.0
+Sausage Roll  Mozzarella Cheese Topping 4.5
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+order: [restaurant.EggRoll@3c0ecd4b, restaurant.EggRoll@14bf9759]
+Egg Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 6.25
+Egg Roll  Dark Chocolate Sauce 4.75
 Casual Customer: 
 Original Purchase: {Spring Roll=1}
-order: [restaurant.SpringRoll@1ce92674]
-Spring Roll  Marinara Sauce  Marinara Sauce 5.5
-Casual Customer: 
-Original Purchase: {Egg Roll=1}
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-order: [restaurant.SpringRoll@5700d6b1, restaurant.SpringRoll@6fd02e5, restaurant.SpringRoll@5bcab519]
-Spring Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.5
-Spring Roll  Shredded Carrots Topping 4.0
-Spring Roll  Powdered Sugar Topping  Marinara Sauce  Marinara Sauce 6.0
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-order: [restaurant.SpringRoll@e45f292, restaurant.SpringRoll@5f2108b5]
-Spring Roll  Marinara Sauce  Marinara Sauce 5.5
-Spring Roll  Shredded Cabbage Topping 4.0
+order: [restaurant.SpringRoll@5f341870]
+Spring Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
-
-================================Store Closing All Sold Out!====================================
-
 
 Inventory at the end of Day 8.
-Leftover Spring Rolls: 0
-Leftover Egg Rolls: 0
-Leftover Pastry Rolls: 0
-Leftover Sausage Rolls: 0
+Leftover Spring Rolls: 22
+Leftover Egg Rolls: 11
+Leftover Pastry Rolls: 19
+Leftover Sausage Rolls: 11
 Leftover Jelly Rolls: 0
 
 ====================================================================================================
 
 Today is Day 9.
-Initial Spring Rolls: 30
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 30
+Initial Spring Rolls: 22
+Initial Egg Rolls: 11
+Initial Pastry Rolls: 19
+Initial Sausage Rolls: 11
 Initial Jelly Rolls: 30
 
 ====================================================================================================
 
-order: [restaurant.JellyRoll@31a5c39e, restaurant.JellyRoll@3f49dace, restaurant.JellyRoll@1e397ed7, restaurant.JellyRoll@490ab905, restaurant.JellyRoll@56ac3a89, restaurant.EggRoll@27c20538, restaurant.EggRoll@72d818d1, restaurant.EggRoll@6e06451e, restaurant.EggRoll@59494225, restaurant.EggRoll@6e1567f1]
-Jelly Roll 2.5
-Jelly Roll 2.5
-Jelly Roll 2.5
-Jelly Roll  Peanut Sauce  Peanut Sauce 4.5
-Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
-Egg Roll  Fruit Preserves Topping  Dark Chocolate Sauce 5.25
-Egg Roll  Shredded Carrots Topping  Cranberry Sauce 5.25
-Egg Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce 6.25
-Egg Roll  Shredded Cabbage Topping  Sweet & Sour Sauce 5.25
-Egg Roll  Powdered Sugar Topping 4.25
-order: [restaurant.PastryRoll@5cb9f472, restaurant.PastryRoll@cb644e, restaurant.PastryRoll@13805618, restaurant.PastryRoll@56ef9176, restaurant.PastryRoll@4566e5bd, restaurant.JellyRoll@1ed4004b, restaurant.JellyRoll@ff5b51f, restaurant.JellyRoll@25bbe1b6, restaurant.JellyRoll@5702b3b1, restaurant.JellyRoll@69ea3742, restaurant.SpringRoll@4b952a2d, restaurant.SpringRoll@3159c4b8, restaurant.SpringRoll@73846619, restaurant.SpringRoll@4bec1f0c, restaurant.SpringRoll@29ca901e]
-Pastry Roll  Fruit Preserves Topping  Cranberry Sauce 4.25
-Pastry Roll  Marinara Sauce  Marinara Sauce 4.75
-Pastry Roll  Cranberry Sauce  Cranberry Sauce 4.75
-Pastry Roll  Peanut Sauce  Peanut Sauce 4.75
-Pastry Roll  Sweet & Sour Sauce 3.75
-Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
-Jelly Roll  Shredded Carrots Topping  Sweet & Sour Sauce 4.0
-Jelly Roll  Peanut Sauce  Peanut Sauce 4.5
-Jelly Roll 2.5
-Jelly Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.0
-Spring Roll  Shredded Cabbage Topping 4.0
-Spring Roll  Mozzarella Cheese Topping  Peanut Sauce 5.0
-Spring Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 6.0
-Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
-Spring Roll  Peanut Sauce  Peanut Sauce 5.5
+order: [restaurant.SausageRoll@553f17c, restaurant.SausageRoll@4f7d0008, restaurant.SausageRoll@271053e1, restaurant.SausageRoll@589838eb, restaurant.SausageRoll@42dafa95, restaurant.SausageRoll@6500df86, restaurant.SausageRoll@402a079c, restaurant.SausageRoll@59ec2012, restaurant.SausageRoll@4cf777e8, restaurant.SausageRoll@2f686d1f, restaurant.JellyRoll@3fee9989, restaurant.JellyRoll@73ad2d6, restaurant.JellyRoll@7085bdee, restaurant.JellyRoll@1ce92674, restaurant.JellyRoll@5700d6b1]
+Sausage Roll  Cranberry Sauce  Cranberry Sauce 6.0
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 6.5
+Sausage Roll  Marinara Sauce 5.0
+Sausage Roll 4.0
+Sausage Roll  Shredded Cabbage Topping  Marinara Sauce 5.5
+Sausage Roll  Dark Chocolate Sauce 5.0
+Sausage Roll  Marinara Sauce  Marinara Sauce 6.0
+Sausage Roll  Sweet & Sour Sauce 5.0
+Sausage Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce 5.5
+Sausage Roll  Marinara Sauce  Marinara Sauce 6.0
+Jelly Roll  Shredded Carrots Topping 3.0
+Jelly Roll  Dark Chocolate Sauce 3.5
+Jelly Roll  Powdered Sugar Topping  Sweet & Sour Sauce 4.0
+Jelly Roll  Powdered Sugar Topping  Marinara Sauce 4.0
+Jelly Roll  Cranberry Sauce 3.5
 Casual Customer: 
 Original Purchase: {Jelly Roll=2}
-order: [restaurant.JellyRoll@5649fd9b, restaurant.JellyRoll@6adede5]
-Jelly Roll 2.5
-Jelly Roll  Shredded Cabbage Topping  Sweet & Sour Sauce 4.0
+order: [restaurant.JellyRoll@6fd02e5, restaurant.JellyRoll@5bcab519]
+Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
+Jelly Roll  Shredded Cabbage Topping 3.0
 Casual Customer: 
 Original Purchase: {Egg Roll=1}
-order: [restaurant.EggRoll@2d928643]
-Egg Roll  Mozzarella Cheese Topping  Marinara Sauce 5.25
+order: [restaurant.EggRoll@e45f292]
+Egg Roll  Shredded Carrots Topping 4.25
 Casual Customer: 
-Original Purchase: {Pastry Roll=2}
-order: [restaurant.PastryRoll@5025a98f, restaurant.PastryRoll@49993335]
-Pastry Roll  Fruit Preserves Topping  Peanut Sauce 4.25
-Pastry Roll  Marinara Sauce 3.75
+Original Purchase: {Spring Roll=1}
+order: [restaurant.SpringRoll@5f2108b5]
+Spring Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+order: [restaurant.SpringRoll@31a5c39e, restaurant.SpringRoll@3f49dace]
+Spring Roll  Cranberry Sauce 4.5
+Spring Roll  Peanut Sauce  Peanut Sauce 5.5
 Casual Customer: 
 Original Purchase: {Pastry Roll=3}
-order: [restaurant.PastryRoll@20322d26, restaurant.PastryRoll@192b07fd, restaurant.PastryRoll@64bfbc86]
-Pastry Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 5.25
-Pastry Roll  Powdered Sugar Topping 3.25
-Pastry Roll 2.75
+order: [restaurant.PastryRoll@1e397ed7, restaurant.PastryRoll@490ab905, restaurant.PastryRoll@56ac3a89]
+Pastry Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce 4.25
+Pastry Roll  Shredded Cabbage Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.25
+Pastry Roll  Sweet & Sour Sauce 3.75
 Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-order: [restaurant.SausageRoll@64bf3bbf, restaurant.SausageRoll@55d56113]
-Sausage Roll 4.0
-Sausage Roll 4.0
-Casual Customer: 
-Original Purchase: {Egg Roll=1}
-order: [restaurant.EggRoll@148080bb]
-Egg Roll  Powdered Sugar Topping  Dark Chocolate Sauce 5.25
-Casual Customer: 
-Original Purchase: {Jelly Roll=1}
-order: [restaurant.JellyRoll@dc24521]
-Jelly Roll  Mozzarella Cheese Topping  Marinara Sauce 4.0
-Casual Customer: 
-Original Purchase: {Egg Roll=3}
-order: [restaurant.EggRoll@10bdf5e5, restaurant.EggRoll@6e1ec318, restaurant.EggRoll@7e0b0338]
-Egg Roll  Marinara Sauce  Marinara Sauce 5.75
-Egg Roll  Fruit Preserves Topping  Marinara Sauce 5.25
-Egg Roll  Shredded Cabbage Topping  Marinara Sauce 5.25
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-order: [restaurant.JellyRoll@617faa95, restaurant.JellyRoll@1e127982, restaurant.JellyRoll@60c6f5b]
-Jelly Roll  Shredded Cabbage Topping  Cranberry Sauce  Cranberry Sauce 5.0
+Original Purchase: {Jelly Roll=2}
+order: [restaurant.JellyRoll@27c20538, restaurant.JellyRoll@72d818d1]
 Jelly Roll  Dark Chocolate Sauce 3.5
-Jelly Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce 4.0
+Jelly Roll  Peanut Sauce  Peanut Sauce 4.5
 Casual Customer: 
-Original Purchase: {Spring Roll=3}
-order: [restaurant.SpringRoll@2038ae61, restaurant.SpringRoll@3c0f93f1, restaurant.SpringRoll@31dc339b]
-Spring Roll  Dark Chocolate Sauce 4.5
-Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
-Spring Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
-order: [restaurant.PastryRoll@544fe44c, restaurant.PastryRoll@31610302, restaurant.JellyRoll@71318ec4, restaurant.JellyRoll@21213b92, restaurant.SausageRoll@a67c67e, restaurant.SausageRoll@3327bd23, restaurant.SpringRoll@4e1d422d, restaurant.SpringRoll@66480dd7, restaurant.EggRoll@52a86356, restaurant.EggRoll@5ce81285]
-Pastry Roll  Shredded Cabbage Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.25
-Pastry Roll  Powdered Sugar Topping  Marinara Sauce 4.25
-Jelly Roll 2.5
-Jelly Roll  Marinara Sauce 3.5
-Sausage Roll  Shredded Carrots Topping 4.5
-Sausage Roll  Powdered Sugar Topping 4.5
-Spring Roll  Shredded Carrots Topping  Cranberry Sauce  Cranberry Sauce 6.0
-Spring Roll 3.5
-Egg Roll  Shredded Carrots Topping  Cranberry Sauce 5.25
-Egg Roll  Shredded Cabbage Topping 4.25
-order: [restaurant.PastryRoll@78c03f1f, restaurant.PastryRoll@5ec0a365, restaurant.JellyRoll@4fe3c938, restaurant.JellyRoll@5383967b, restaurant.SausageRoll@2ac273d3, restaurant.SausageRoll@71423665, restaurant.SpringRoll@20398b7c, restaurant.SpringRoll@6fc6f14e, restaurant.EggRoll@56235b8e, restaurant.EggRoll@3632be31]
-Pastry Roll  Powdered Sugar Topping 3.25
-Pastry Roll  Fruit Preserves Topping  Marinara Sauce  Marinara Sauce 5.25
-Jelly Roll  Shredded Cabbage Topping 3.0
-Jelly Roll  Shredded Cabbage Topping 3.0
-Sausage Roll  Cranberry Sauce 5.0
-Sausage Roll 4.0
-Spring Roll  Shredded Cabbage Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
-Spring Roll  Cranberry Sauce 4.5
-Egg Roll  Sweet & Sour Sauce 4.75
-Egg Roll  Fruit Preserves Topping 4.25
-order: [restaurant.PastryRoll@5abca1e0, restaurant.PastryRoll@2286778, restaurant.JellyRoll@4e9ba398, restaurant.JellyRoll@6d7b4f4c, restaurant.SausageRoll@527740a2, restaurant.SausageRoll@13a5fe33, restaurant.SpringRoll@3108bc, restaurant.SpringRoll@370736d9, restaurant.EggRoll@5f9d02cb, restaurant.EggRoll@63753b6d]
-Pastry Roll 2.75
-Pastry Roll  Peanut Sauce  Peanut Sauce 4.75
-Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
-Jelly Roll  Mozzarella Cheese Topping  Marinara Sauce 4.0
-Sausage Roll  Cranberry Sauce 5.0
-Sausage Roll  Shredded Cabbage Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.5
-Spring Roll 3.5
-Spring Roll 3.5
-Egg Roll  Powdered Sugar Topping  Marinara Sauce 5.25
-Egg Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.25
+Original Purchase: {Spring Roll=1}
+order: [restaurant.SpringRoll@6e06451e]
+Spring Roll  Mozzarella Cheese Topping  Peanut Sauce  Peanut Sauce 6.0
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+order: [restaurant.SpringRoll@59494225]
+Spring Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.5
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+order: [restaurant.SausageRoll@6e1567f1]
+Sausage Roll  Powdered Sugar Topping  Cranberry Sauce 5.5
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 9.
-Leftover Spring Rolls: 16
-Leftover Egg Rolls: 14
-Leftover Pastry Rolls: 14
-Leftover Sausage Rolls: 22
-Leftover Jelly Rolls: 8
+Leftover Spring Rolls: 13
+Leftover Egg Rolls: 6
+Leftover Pastry Rolls: 12
+Leftover Sausage Rolls: 0
+Leftover Jelly Rolls: 17
 
 ====================================================================================================
 
 Today is Day 10.
-Initial Spring Rolls: 16
-Initial Egg Rolls: 14
-Initial Pastry Rolls: 14
-Initial Sausage Rolls: 22
-Initial Jelly Rolls: 8
+Initial Spring Rolls: 13
+Initial Egg Rolls: 6
+Initial Pastry Rolls: 12
+Initial Sausage Rolls: 30
+Initial Jelly Rolls: 17
 
 ====================================================================================================
 
-order: [restaurant.JellyRoll@6b09bb57, restaurant.JellyRoll@6536e911, restaurant.JellyRoll@520a3426, restaurant.JellyRoll@18eed359, restaurant.JellyRoll@3e9b1010, restaurant.EggRoll@6c3708b3, restaurant.EggRoll@6f1fba17, restaurant.EggRoll@185d8b6, restaurant.EggRoll@67784306, restaurant.EggRoll@335eadca]
-Jelly Roll  Mozzarella Cheese Topping  Peanut Sauce  Peanut Sauce 5.0
-Jelly Roll 2.5
-Jelly Roll  Fruit Preserves Topping  Sweet & Sour Sauce 4.0
-Jelly Roll 2.5
-Jelly Roll  Shredded Cabbage Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.0
-Egg Roll  Marinara Sauce 4.75
-Egg Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 6.25
-Egg Roll 3.75
-Egg Roll  Fruit Preserves Topping  Peanut Sauce 5.25
-Egg Roll  Shredded Cabbage Topping  Sweet & Sour Sauce 5.25
-NOT ENOUGH INVENTORY TO FILL CATERING ORDER
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-order: [restaurant.SpringRoll@210366b4, restaurant.SpringRoll@eec5a4a, restaurant.SpringRoll@2b2948e2]
+order: [restaurant.PastryRoll@5cb9f472, restaurant.PastryRoll@cb644e, restaurant.PastryRoll@13805618, restaurant.PastryRoll@56ef9176, restaurant.PastryRoll@4566e5bd, restaurant.SpringRoll@1ed4004b, restaurant.SpringRoll@ff5b51f, restaurant.SpringRoll@25bbe1b6, restaurant.SpringRoll@5702b3b1, restaurant.SpringRoll@69ea3742, restaurant.SpringRoll@4b952a2d, restaurant.SpringRoll@3159c4b8, restaurant.SpringRoll@73846619, restaurant.SpringRoll@4bec1f0c, restaurant.SpringRoll@29ca901e]
+Pastry Roll 2.75
+Pastry Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.75
+Pastry Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.75
+Pastry Roll  Peanut Sauce 3.75
+Pastry Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.25
+Spring Roll  Shredded Carrots Topping 4.0
 Spring Roll  Cranberry Sauce 4.5
-Spring Roll  Shredded Cabbage Topping  Cranberry Sauce 5.0
-Spring Roll  Mozzarella Cheese Topping  Peanut Sauce 5.0
+Spring Roll  Mozzarella Cheese Topping 4.0
+Spring Roll 3.5
+Spring Roll 3.5
+Spring Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.5
+Spring Roll  Peanut Sauce  Peanut Sauce 5.5
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce 5.0
+Spring Roll  Cranberry Sauce 4.5
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
 Casual Customer: 
-Original Purchase: {Spring Roll=1}
-order: [restaurant.SpringRoll@6ddf90b0]
-Spring Roll  Peanut Sauce 4.5
+Original Purchase: {Pastry Roll=2}
+order: [restaurant.PastryRoll@5649fd9b, restaurant.PastryRoll@6adede5]
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 4.75
+Pastry Roll  Powdered Sugar Topping 3.25
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+order: [restaurant.PastryRoll@2d928643]
+Pastry Roll  Mozzarella Cheese Topping  Cranberry Sauce 4.25
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+order: [restaurant.JellyRoll@5025a98f]
+Jelly Roll  Shredded Carrots Topping  Cranberry Sauce 4.0
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+order: [restaurant.SausageRoll@49993335]
+Sausage Roll  Mozzarella Cheese Topping 4.5
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+order: [restaurant.SpringRoll@20322d26, restaurant.SpringRoll@192b07fd]
+Spring Roll  Mozzarella Cheese Topping 4.0
+Spring Roll  Fruit Preserves Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+order: [restaurant.PastryRoll@64bfbc86, restaurant.PastryRoll@64bf3bbf]
+Pastry Roll  Powdered Sugar Topping  Peanut Sauce  Peanut Sauce 5.25
+Pastry Roll 2.75
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+order: [restaurant.JellyRoll@55d56113, restaurant.JellyRoll@148080bb]
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce 4.0
+Jelly Roll  Shredded Cabbage Topping 3.0
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+order: [restaurant.EggRoll@dc24521, restaurant.EggRoll@10bdf5e5]
+Egg Roll  Powdered Sugar Topping 4.25
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.75
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+order: [restaurant.JellyRoll@6e1ec318, restaurant.JellyRoll@7e0b0338, restaurant.JellyRoll@617faa95]
+Jelly Roll  Shredded Carrots Topping  Dark Chocolate Sauce 4.0
+Jelly Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce 5.0
+Jelly Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.0
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+order: [restaurant.PastryRoll@1e127982, restaurant.PastryRoll@60c6f5b]
+Pastry Roll  Sweet & Sour Sauce 3.75
+Pastry Roll  Marinara Sauce 3.75
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+order: [restaurant.JellyRoll@2038ae61, restaurant.JellyRoll@3c0f93f1, restaurant.JellyRoll@31dc339b]
+Jelly Roll  Fruit Preserves Topping  Cranberry Sauce 4.0
+Jelly Roll  Sweet & Sour Sauce 3.5
+Jelly Roll 2.5
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 10.
-Leftover Spring Rolls: 10
-Leftover Egg Rolls: 7
-Leftover Pastry Rolls: 12
-Leftover Sausage Rolls: 15
-Leftover Jelly Rolls: 0
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 23
+Leftover Jelly Rolls: 2
 
 ====================================================================================================
 

@@ -2,7 +2,7 @@ package restaurant;
 import java.util.*; 
 
 public class BusinessCustomer implements Customer {
-    public int numAffectedByOutage = 0;
+    private static int numAffectedByOutage = 0;
 
     @Override
     public void purchase(Restaurant restaurant) {
@@ -29,5 +29,10 @@ public class BusinessCustomer implements Customer {
             
         }
 
+    }
+
+    public int getNumOutages()
+    {
+        return numAffectedByOutage;
     }
 }

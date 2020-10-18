@@ -2,7 +2,7 @@ package restaurant;
 import java.util.*; 
 
 public class CateringCustomer implements Customer {
-    public int numAffectedByOutage = 0;
+    private static int numAffectedByOutage = 0;
 
     @Override
     public void purchase(Restaurant restaurant) {
@@ -11,6 +11,7 @@ public class CateringCustomer implements Customer {
             HashMap<String, Integer> purchase = new HashMap<String, Integer>();
             try 
             {
+
                 String[] rolls = {"Spring Roll", "Egg Roll", "Sausage Roll", "Pastry Roll", "Jelly Roll"};
                 int rnd = new Random().nextInt(rolls.length);
                 int rnd2 = new Random().nextInt(rolls.length);
@@ -19,9 +20,16 @@ public class CateringCustomer implements Customer {
                 String roll1 = rolls[rnd];
                 String roll2 = rolls[rnd2];
                 String roll3 = rolls[rnd3];
-                purchase.put(roll1, 5);
-                purchase.put(roll2, 5);
-                purchase.put(roll3, 5);
+                if(roll1==roll2 || roll2==roll3 || roll1==roll3)
+                {
+                    purchase.put(roll1, 10);
+                    purchase.put(roll2, 5);
+                }
+                else {
+                    purchase.put(roll1, 5);
+                    purchase.put(roll2, 5);
+                    purchase.put(roll3, 5);
+                }
                 //System.out.println("Catering Customer: ");
                 //System.out.println("Original Purchase: " + purchase);
                 restaurant.requestPurchase(purchase); 
@@ -73,6 +81,11 @@ public class CateringCustomer implements Customer {
             }
         }
 
+    }
+
+    public int getNumOutages()
+    {
+        return numAffectedByOutage;
     }
     
 }
