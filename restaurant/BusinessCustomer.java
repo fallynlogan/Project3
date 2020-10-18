@@ -2,6 +2,7 @@ package restaurant;
 import java.util.*; 
 
 public class BusinessCustomer implements Customer {
+    public int numAffectedByOutage = 0;
 
     @Override
     public void purchase(Restaurant restaurant) {
@@ -15,14 +16,13 @@ public class BusinessCustomer implements Customer {
                 purchase.put("Sausage Roll", 2);
                 purchase.put("Pastry Roll", 2);
                 purchase.put("Jelly Roll", 2);
-                System.out.println("Business Customer: ");
-                System.out.println("Original Purchase: " + purchase);
+                //System.out.println("Business Customer: ");
+                //System.out.println("Original Purchase: " + purchase);
                 restaurant.requestPurchase(purchase);
                 break;
             } catch(OrderNotFilledException ex)
             {
-                //System.out.println(Arrays.asList(ex.getRemainingOrderItems()));
-                //System.out.println(Arrays.asList(ex.getRemainingInventoryItems()));
+                numAffectedByOutage ++;
                 System.out.println("NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER");
                 return;
             }

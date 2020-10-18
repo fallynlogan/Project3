@@ -2,6 +2,7 @@ package restaurant;
 import java.util.*; 
 
 public class CasualCustomer implements Customer {
+    public int numAffectedByOutage = 0;
 
     @Override
     public void purchase(Restaurant restaurant) {
@@ -27,6 +28,7 @@ public class CasualCustomer implements Customer {
                 // assuming only one thing in the hashmap, get that thing
                 Map.Entry<String, Integer> pair = purchase.entrySet().iterator().next();
                 HashMap<String, Integer> newOrder = new HashMap<String, Integer>();
+                numAffectedByOutage++;
                 // case: requesting 3 rolls of type X, but only 2/1 rolls of type X in inventory.
                 if(purchase.get(pair.getKey()) > remainingOrderItems.get(pair.getKey()))
                 {

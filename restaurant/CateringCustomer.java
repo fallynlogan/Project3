@@ -2,6 +2,7 @@ package restaurant;
 import java.util.*; 
 
 public class CateringCustomer implements Customer {
+    public int numAffectedByOutage = 0;
 
     @Override
     public void purchase(Restaurant restaurant) {
@@ -21,17 +22,19 @@ public class CateringCustomer implements Customer {
                 purchase.put(roll1, 5);
                 purchase.put(roll2, 5);
                 purchase.put(roll3, 5);
-                System.out.println("Catering Customer: ");
-                System.out.println("Original Purchase: " + purchase);
+                //System.out.println("Catering Customer: ");
+                //System.out.println("Original Purchase: " + purchase);
                 restaurant.requestPurchase(purchase); 
                 break;
             } catch(OrderNotFilledException ex)
             {
+                HashMap<String, Integer> remainingOrderItems = ex.getRemainingOrderItems();
                 HashMap<String, Integer> remainingInventoryItems = ex.getRemainingInventoryItems();
                 HashMap<String, Integer> newOrder = new HashMap<String, Integer>();
                 int rollsNeeded = 0;
+                numAffectedByOutage++;
 
-                Iterator<Map.Entry<String, Integer>> it = remainingInventoryItems.entrySet().iterator();
+                Iterator<Map.Entry<String, Integer>> it = remainingOrderItems.entrySet().iterator();
                 while (it.hasNext()) 
                 {
                     Map.Entry<String, Integer> pair = it.next();
