@@ -4,9 +4,8 @@ import java.util.*;
 public class Restaurant {
     public static HashMap<String, Integer> inventory;
     private HashMap<String, ArrayList<Customer>> dailyCustomers;
-    private HashMap<String, ArrayList<FoodItem>> order;
     private List<Observer> observers = new ArrayList<Observer>();
-    private ArrayList<FoodItem> rolls = new ArrayList<FoodItem>();
+    
 
     public Restaurant(int numDays, int numRolls)
     {
@@ -84,7 +83,6 @@ public class Restaurant {
         while (it.hasNext()) 
         {
             HashMap.Entry<String, Integer> pair = it.next();
-            //System.out.print(pair.getKey());
             while(purchase.get(pair.getKey()) >  0) 
             {
                 if(tempInventory.get(pair.getKey()) > 0)
@@ -102,28 +100,22 @@ public class Restaurant {
             throw new OrderNotFilledException(purchase, tempInventory);
         } else {
             inventory = tempInventory;
-            System.out.println("purchase copy: " + purchaseCopy);
-            System.out.println("Actual Purchase: "+ purchase);
             makeRolls(purchaseCopy);
         }
     }
 
-    public void makeRolls(HashMap<String, Integer> purchaseCopy)
+    public void makeRolls(HashMap<String, Integer> purchase)
     {
-        Iterator<Map.Entry<String, Integer>> it = purchaseCopy.entrySet().iterator();
-        order = new HashMap<String, ArrayList<FoodItem>>();
+        Iterator<Map.Entry<String, Integer>> it = purchase.entrySet().iterator();
+        ArrayList<FoodItem> rolls = new ArrayList<FoodItem>();
         while(it.hasNext())
         {
             Map.Entry<String, Integer> pair = it.next();
             int numOfRolls = pair.getValue();
-            String rollType = pair.getKey();
-            System.out.println("pair value: " + numOfRolls);
-            System.out.println("pair key: " + rollType);
             for(int i = 0; i < numOfRolls; i++)
                 {
                     if(pair.getKey() == "Egg Roll")
                     {
-                        System.out.println("Add eggroll to list");
                         rolls.add(new EggRoll());
                     }
                     if(pair.getKey() == "Spring Roll")
@@ -143,9 +135,9 @@ public class Restaurant {
                         rolls.add(new JellyRoll());
                     }
                 }
-            order.put(pair.getKey(), rolls);
+                
         }
-        System.out.println("Order: " + order);
+        System.out.println("order" +  rolls);
         //decorateRolls(order);
     }
 

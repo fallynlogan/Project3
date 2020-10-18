@@ -5,7 +5,6 @@ public class BusinessCustomer implements Customer {
 
     @Override
     public void purchase(Restaurant restaurant) {
-        // TODO Auto-generated method stub
         while(true)
         {
             try 

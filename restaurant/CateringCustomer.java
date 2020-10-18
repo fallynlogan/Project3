@@ -5,7 +5,6 @@ public class CateringCustomer implements Customer {
 
     @Override
     public void purchase(Restaurant restaurant) {
-        // TODO Auto-generated method stub
         while(true)
         {
             HashMap<String, Integer> purchase = new HashMap<String, Integer>();
