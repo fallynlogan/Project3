@@ -134,26 +134,54 @@ public class Restaurant {
                     {
                         rolls.add(new JellyRoll());
                     }
-                }
-                
+                }    
         }
-        System.out.println("order" +  rolls);
-        //decorateRolls(order);
+        System.out.println("order: " +  rolls);
+        decorateRolls(rolls);
     }
 
-    // public HashMap<String, FoodItem> decorateRolls(HashMap<String, FoodItem> order)
-    // {
-    //     Iterator<Map.Entry<String, FoodItem>> it = order.entrySet().iterator();
-    //     while(it.hasNext())
-    //     {
-    //         Map.Entry<String, FoodItem> pair = it.next();
-    //         //choose random number for num extras
-    //         // int numToppings = new Random().nextInt(2);
-    //         // int numSauces = new Random().nextInt(3);
-    //         // int numFillings = new Random().nextInt(1);
-    //     }
-    //     return order;
-    // }
+    public void decorateRolls(ArrayList<FoodItem> order)
+    {
+        String[] fillings = {" Cream Cheese Filling", " Apricot Jelly Filling", " Italian Sausage Filling", " Shredded Beef Filling", " Ground Pork Filling"};
+        String[] sauces = {" Peanut Sauce", " Sweet & Sour Sauce", " Marinara Sauce", " Cranberry Sauce", " Dark Chocolate Sauce"};
+        String[] toppings = {" Shredded Cabbage Topping", " Shredded Carrots Topping", " Fruit Preserves Topping", " Mozzarella Cheese Topping", " Powdered Sugar Topping"};
+
+            //go through each element in array list
+            for(int i = 0; i< order.size(); i++)
+            {
+                 //choose random number for num of extras
+                int numToppings = new Random().nextInt(2);
+                int numSauces = new Random().nextInt(3);
+                int numFillings = new Random().nextInt(1);
+                //get a topping
+                int topping = new Random().nextInt(toppings.length);
+                int sauce = new Random().nextInt(sauces.length);
+                int filling = new Random().nextInt(fillings.length);
+                //get list element
+                FoodItem roll = order.get(i);
+                //wrap in however many toppings
+                for(int j = 0; j < numToppings; j++)
+                {
+                    
+                    roll = new ToppingDecorator(roll, toppings[topping]);
+                }
+                //wrap in however many sauces
+                for(int j = 0; j < numSauces; j++)
+                {
+                    
+                    roll = new SauceDecorator(roll, sauces[sauce]);
+                }
+                //wrap in however many fillings
+                for(int j = 0; j < numFillings; j++)
+                {
+                    
+                    roll = new SauceDecorator(roll, fillings[filling]);
+                }
+
+                System.out.println(roll.getDescription() + " " + roll.cost());
+            }
+
+    }
 
 
     public Boolean checkInventorySoldOut()

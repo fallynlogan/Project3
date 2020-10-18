@@ -11,643 +11,761 @@ Initial Jelly Rolls: 30
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Jelly Roll=5, Pastry Roll=5, Sausage Roll=5}
-purchase copy: {Pastry Roll=5, Jelly Roll=5, Sausage Roll=5}
-Actual Purchase: {Jelly Roll=0, Pastry Roll=0, Sausage Roll=0}
-order[restaurant.PastryRoll@71be98f5, restaurant.PastryRoll@6fadae5d, restaurant.PastryRoll@17f6480, restaurant.PastryRoll@2d6e8792, restaurant.PastryRoll@2812cbfa, restaurant.JellyRoll@2acf57e3, restaurant.JellyRoll@506e6d5e, restaurant.JellyRoll@96532d6, restaurant.JellyRoll@3796751b, restaurant.JellyRoll@67b64c45, restaurant.SausageRoll@4411d970, restaurant.SausageRoll@6442b0a6, restaurant.SausageRoll@60f82f98, restaurant.SausageRoll@35f983a6, restaurant.SausageRoll@7f690630]
+Original Purchase: {Spring Roll=5, Pastry Roll=5, Sausage Roll=5}
+order: [restaurant.PastryRoll@71be98f5, restaurant.PastryRoll@6fadae5d, restaurant.PastryRoll@17f6480, restaurant.PastryRoll@2d6e8792, restaurant.PastryRoll@2812cbfa, restaurant.SausageRoll@2acf57e3, restaurant.SausageRoll@506e6d5e, restaurant.SausageRoll@96532d6, restaurant.SausageRoll@3796751b, restaurant.SausageRoll@67b64c45, restaurant.SpringRoll@4411d970, restaurant.SpringRoll@6442b0a6, restaurant.SpringRoll@60f82f98, restaurant.SpringRoll@35f983a6, restaurant.SpringRoll@7f690630]
+Pastry Roll  Fruit Preserves Topping  Cranberry Sauce 4.25
+Pastry Roll  Cranberry Sauce  Cranberry Sauce 4.75
+Pastry Roll  Marinara Sauce 3.75
+Pastry Roll  Fruit Preserves Topping 3.25
+Pastry Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 5.25
+Sausage Roll  Powdered Sugar Topping 4.5
+Sausage Roll  Shredded Carrots Topping  Peanut Sauce 5.5
+Sausage Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.5
+Sausage Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 6.0
+Sausage Roll  Cranberry Sauce  Cranberry Sauce 6.0
+Spring Roll  Dark Chocolate Sauce 4.5
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
+Spring Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 6.0
+Spring Roll  Sweet & Sour Sauce 4.5
+Spring Roll  Shredded Cabbage Topping  Dark Chocolate Sauce 5.0
 Catering Customer: 
-Original Purchase: {Jelly Roll=5, Egg Roll=5, Sausage Roll=5}
-purchase copy: {Jelly Roll=5, Sausage Roll=5, Egg Roll=5}
-Actual Purchase: {Jelly Roll=0, Egg Roll=0, Sausage Roll=0}
-order[restaurant.JellyRoll@2f7a2457, restaurant.JellyRoll@566776ad, restaurant.JellyRoll@6108b2d7, restaurant.JellyRoll@1554909b, restaurant.JellyRoll@6bf256fa, restaurant.SausageRoll@6cd8737, restaurant.SausageRoll@22f71333, restaurant.SausageRoll@13969fbe, restaurant.SausageRoll@6aaa5eb0, restaurant.SausageRoll@3498ed, restaurant.EggRoll@1a407d53, restaurant.EggRoll@3d8c7aca, restaurant.EggRoll@5ebec15, restaurant.EggRoll@21bcffb5, restaurant.EggRoll@380fb434]
+Original Purchase: {Spring Roll=5, Egg Roll=5, Pastry Roll=5}
+order: [restaurant.PastryRoll@3d8c7aca, restaurant.PastryRoll@5ebec15, restaurant.PastryRoll@21bcffb5, restaurant.PastryRoll@380fb434, restaurant.PastryRoll@668bc3d5, restaurant.SpringRoll@3cda1055, restaurant.SpringRoll@7a5d012c, restaurant.SpringRoll@3fb6a447, restaurant.SpringRoll@79b4d0f, restaurant.SpringRoll@6b2fad11, restaurant.EggRoll@79698539, restaurant.EggRoll@73f792cf, restaurant.EggRoll@2ed94a8b, restaurant.EggRoll@38082d64, restaurant.EggRoll@dfd3711]
+Pastry Roll 2.75
+Pastry Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.25
+Pastry Roll 2.75
+Pastry Roll  Shredded Carrots Topping  Peanut Sauce  Peanut Sauce 5.25
+Pastry Roll 2.75
+Spring Roll  Marinara Sauce  Marinara Sauce 5.5
+Spring Roll  Marinara Sauce 4.5
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
+Spring Roll  Sweet & Sour Sauce 4.5
+Spring Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce 5.0
+Egg Roll 3.75
+Egg Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.75
+Egg Roll  Peanut Sauce  Peanut Sauce 5.75
+Egg Roll  Peanut Sauce  Peanut Sauce 5.75
+Egg Roll  Powdered Sugar Topping  Peanut Sauce 5.25
+Catering Customer: 
+Original Purchase: {Egg Roll=5, Pastry Roll=5}
+order: [restaurant.PastryRoll@42d3bd8b, restaurant.PastryRoll@26ba2a48, restaurant.PastryRoll@5f2050f6, restaurant.PastryRoll@3b81a1bc, restaurant.PastryRoll@64616ca2, restaurant.EggRoll@13fee20c, restaurant.EggRoll@4e04a765, restaurant.EggRoll@783e6358, restaurant.EggRoll@17550481, restaurant.EggRoll@735f7ae5]
+Pastry Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 5.25
+Pastry Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 5.25
+Pastry Roll  Fruit Preserves Topping  Sweet & Sour Sauce 4.25
+Pastry Roll  Peanut Sauce  Peanut Sauce 4.75
+Pastry Roll  Fruit Preserves Topping 3.25
+Egg Roll 3.75
+Egg Roll  Marinara Sauce 4.75
+Egg Roll  Powdered Sugar Topping  Dark Chocolate Sauce 5.25
+Egg Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.75
+Egg Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.75
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+order: [restaurant.PastryRoll@180bc464]
+Pastry Roll  Fruit Preserves Topping  Marinara Sauce  Marinara Sauce 5.25
 Casual Customer: 
 Original Purchase: {Sausage Roll=3}
-purchase copy: {Sausage Roll=3}
-Actual Purchase: {Sausage Roll=0}
-order[restaurant.SausageRoll@668bc3d5, restaurant.SausageRoll@3cda1055, restaurant.SausageRoll@7a5d012c]
+order: [restaurant.SausageRoll@1324409e, restaurant.SausageRoll@2c6a3f77, restaurant.SausageRoll@246ae04d]
+Sausage Roll 4.0
+Sausage Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce 5.5
+Sausage Roll  Marinara Sauce 5.0
 Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-purchase copy: {Sausage Roll=2}
-Actual Purchase: {Sausage Roll=0}
-order[restaurant.SausageRoll@3fb6a447, restaurant.SausageRoll@79b4d0f]
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-purchase copy: {Spring Roll=3}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@79698539, restaurant.SpringRoll@73f792cf, restaurant.SpringRoll@2ed94a8b]
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-purchase copy: {Spring Roll=3}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@38082d64, restaurant.SpringRoll@dfd3711, restaurant.SpringRoll@42d3bd8b]
+Original Purchase: {Pastry Roll=2}
+order: [restaurant.PastryRoll@62043840, restaurant.PastryRoll@5315b42e]
+Pastry Roll  Dark Chocolate Sauce 3.75
+Pastry Roll  Mozzarella Cheese Topping  Marinara Sauce 4.25
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
-purchase copy: {Pastry Roll=2, Jelly Roll=2, Sausage Roll=2, Spring Roll=2, Egg Roll=2}
-Actual Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
-order[restaurant.PastryRoll@26ba2a48, restaurant.PastryRoll@5f2050f6, restaurant.JellyRoll@3b81a1bc, restaurant.JellyRoll@64616ca2, restaurant.SausageRoll@13fee20c, restaurant.SausageRoll@4e04a765, restaurant.SpringRoll@783e6358, restaurant.SpringRoll@17550481, restaurant.EggRoll@735f7ae5, restaurant.EggRoll@180bc464]
+order: [restaurant.PastryRoll@5d624da6, restaurant.PastryRoll@1e67b872, restaurant.JellyRoll@60addb54, restaurant.JellyRoll@3f2a3a5, restaurant.SausageRoll@4cb2c100, restaurant.SausageRoll@6fb554cc, restaurant.SpringRoll@614c5515, restaurant.SpringRoll@77b52d12, restaurant.EggRoll@2d554825, restaurant.EggRoll@68837a77]
+Pastry Roll  Marinara Sauce 3.75
+Pastry Roll  Powdered Sugar Topping  Sweet & Sour Sauce 4.25
+Jelly Roll  Fruit Preserves Topping  Dark Chocolate Sauce 4.0
+Jelly Roll  Cranberry Sauce 3.5
+Sausage Roll  Powdered Sugar Topping 4.5
+Sausage Roll  Fruit Preserves Topping  Marinara Sauce 5.5
+Spring Roll  Cranberry Sauce 4.5
+Spring Roll  Marinara Sauce 4.5
+Egg Roll 3.75
+Egg Roll  Shredded Carrots Topping  Dark Chocolate Sauce 5.25
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+order: [restaurant.PastryRoll@6be46e8f, restaurant.PastryRoll@3567135c, restaurant.JellyRoll@327471b5, restaurant.JellyRoll@4157f54e, restaurant.SausageRoll@90f6bfd, restaurant.SausageRoll@47f6473, restaurant.SpringRoll@15975490, restaurant.SpringRoll@6b143ee9, restaurant.EggRoll@1936f0f5, restaurant.EggRoll@6615435c]
+Pastry Roll  Shredded Carrots Topping 3.25
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 4.75
+Jelly Roll  Shredded Cabbage Topping  Sweet & Sour Sauce 4.0
+Jelly Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.5
+Sausage Roll  Cranberry Sauce  Cranberry Sauce 6.0
+Sausage Roll  Marinara Sauce  Marinara Sauce 6.0
+Spring Roll  Sweet & Sour Sauce 4.5
+Spring Roll  Peanut Sauce 4.5
+Egg Roll  Fruit Preserves Topping  Sweet & Sour Sauce 5.25
+Egg Roll 3.75
 
 Inventory at the end of Day 1.
-Leftover Spring Rolls: 22
-Leftover Egg Rolls: 23
-Leftover Pastry Rolls: 23
-Leftover Sausage Rolls: 13
-Leftover Jelly Rolls: 18
+Leftover Spring Rolls: 16
+Leftover Egg Rolls: 16
+Leftover Pastry Rolls: 8
+Leftover Sausage Rolls: 18
+Leftover Jelly Rolls: 26
 
 ====================================================================================================
 
 Today is Day 2.
-Initial Spring Rolls: 22
-Initial Egg Rolls: 23
-Initial Pastry Rolls: 23
-Initial Sausage Rolls: 13
-Initial Jelly Rolls: 18
+Initial Spring Rolls: 16
+Initial Egg Rolls: 16
+Initial Pastry Rolls: 8
+Initial Sausage Rolls: 18
+Initial Jelly Rolls: 26
 
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Jelly Roll=5, Egg Roll=5}
-purchase copy: {Jelly Roll=5, Egg Roll=5}
-Actual Purchase: {Jelly Roll=0, Egg Roll=0}
-order[restaurant.JellyRoll@1324409e, restaurant.JellyRoll@2c6a3f77, restaurant.JellyRoll@246ae04d, restaurant.JellyRoll@62043840, restaurant.JellyRoll@5315b42e, restaurant.EggRoll@2ef9b8bc, restaurant.EggRoll@5d624da6, restaurant.EggRoll@1e67b872, restaurant.EggRoll@60addb54, restaurant.EggRoll@3f2a3a5]
+Original Purchase: {Jelly Roll=5, Egg Roll=5, Pastry Roll=5}
+order: [restaurant.PastryRoll@4909b8da, restaurant.PastryRoll@3a03464, restaurant.PastryRoll@2d3fcdbd, restaurant.PastryRoll@617c74e5, restaurant.PastryRoll@6537cf78, restaurant.JellyRoll@67b6d4ae, restaurant.JellyRoll@34b7bfc0, restaurant.JellyRoll@366e2eef, restaurant.JellyRoll@6df97b55, restaurant.JellyRoll@3cbbc1e0, restaurant.EggRoll@35fb3008, restaurant.EggRoll@7225790e, restaurant.EggRoll@54a097cc, restaurant.EggRoll@36f6e879, restaurant.EggRoll@5a61f5df]
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 4.75
+Pastry Roll  Sweet & Sour Sauce 3.75
+Pastry Roll  Mozzarella Cheese Topping 3.25
+Pastry Roll 2.75
+Pastry Roll  Powdered Sugar Topping  Sweet & Sour Sauce 4.25
+Jelly Roll 2.5
+Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
+Jelly Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 4.5
+Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
+Jelly Roll  Powdered Sugar Topping  Marinara Sauce  Marinara Sauce 5.0
+Egg Roll  Powdered Sugar Topping 4.25
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.75
+Egg Roll  Marinara Sauce  Marinara Sauce 5.75
+Egg Roll 3.75
+Egg Roll  Peanut Sauce 4.75
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Sausage Roll=5}
+order: [restaurant.SausageRoll@3551a94, restaurant.SausageRoll@531be3c5, restaurant.SausageRoll@52af6cff, restaurant.SausageRoll@735b478, restaurant.SausageRoll@2c9f9fb0, restaurant.JellyRoll@2096442d, restaurant.JellyRoll@9f70c54, restaurant.JellyRoll@234bef66, restaurant.JellyRoll@737996a0, restaurant.JellyRoll@61dc03ce]
+Sausage Roll  Cranberry Sauce  Cranberry Sauce 6.0
+Sausage Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce 6.5
+Sausage Roll  Powdered Sugar Topping  Dark Chocolate Sauce 5.5
+Sausage Roll  Shredded Carrots Topping  Cranberry Sauce  Cranberry Sauce 6.5
+Sausage Roll  Mozzarella Cheese Topping  Peanut Sauce 5.5
+Jelly Roll  Cranberry Sauce 3.5
+Jelly Roll  Marinara Sauce 3.5
+Jelly Roll  Shredded Cabbage Topping 3.0
+Jelly Roll  Fruit Preserves Topping 3.0
+Jelly Roll  Powdered Sugar Topping 3.0
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Egg Roll=5, Pastry Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
 Casual Customer: 
-Original Purchase: {Spring Roll=2}
-purchase copy: {Spring Roll=2}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@4cb2c100, restaurant.SpringRoll@6fb554cc]
+Original Purchase: {Sausage Roll=2}
+order: [restaurant.SausageRoll@2cb4c3ab, restaurant.SausageRoll@13c78c0b]
+Sausage Roll  Dark Chocolate Sauce 5.0
+Sausage Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+order: [restaurant.JellyRoll@12843fce, restaurant.JellyRoll@3dd3bcd]
+Jelly Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.0
+Jelly Roll 2.5
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+order: [restaurant.JellyRoll@97e1986, restaurant.JellyRoll@26f67b76]
+Jelly Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce 4.0
+Jelly Roll 2.5
 Casual Customer: 
 Original Purchase: {Sausage Roll=1}
-purchase copy: {Sausage Roll=1}
-Actual Purchase: {Sausage Roll=0}
-order[restaurant.SausageRoll@614c5515]
+order: [restaurant.SausageRoll@153f5a29]
+Sausage Roll 4.0
 Casual Customer: 
-Original Purchase: {Egg Roll=2}
-purchase copy: {Egg Roll=2}
-Actual Purchase: {Egg Roll=0}
-order[restaurant.EggRoll@77b52d12, restaurant.EggRoll@2d554825]
+Original Purchase: {Sausage Roll=1}
+order: [restaurant.SausageRoll@7f560810]
+Sausage Roll  Powdered Sugar Topping 4.5
 Casual Customer: 
-Original Purchase: {Egg Roll=1}
-purchase copy: {Egg Roll=1}
-Actual Purchase: {Egg Roll=0}
-order[restaurant.EggRoll@68837a77]
+Original Purchase: {Spring Roll=3}
+order: [restaurant.SpringRoll@69d9c55, restaurant.SpringRoll@13a57a3b, restaurant.SpringRoll@7ca48474]
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
+Spring Roll  Powdered Sugar Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
+Spring Roll 3.5
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+order: [restaurant.SpringRoll@337d0578, restaurant.SpringRoll@59e84876]
+Spring Roll  Sweet & Sour Sauce 4.5
+Spring Roll  Marinara Sauce 4.5
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+order: [restaurant.JellyRoll@61a485d2]
+Jelly Roll  Marinara Sauce 3.5
 Casual Customer: 
 Original Purchase: {Spring Roll=1}
-purchase copy: {Spring Roll=1}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@6be46e8f]
-Casual Customer: 
-Original Purchase: {Spring Roll=1}
-purchase copy: {Spring Roll=1}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@3567135c]
-Casual Customer: 
-Original Purchase: {Pastry Roll=3}
-purchase copy: {Pastry Roll=3}
-Actual Purchase: {Pastry Roll=0}
-order[restaurant.PastryRoll@327471b5, restaurant.PastryRoll@4157f54e, restaurant.PastryRoll@90f6bfd]
-Casual Customer: 
-Original Purchase: {Egg Roll=2}
-purchase copy: {Egg Roll=2}
-Actual Purchase: {Egg Roll=0}
-order[restaurant.EggRoll@47f6473, restaurant.EggRoll@15975490]
-Casual Customer: 
-Original Purchase: {Egg Roll=1}
-purchase copy: {Egg Roll=1}
-Actual Purchase: {Egg Roll=0}
-order[restaurant.EggRoll@6b143ee9]
-Casual Customer: 
-Original Purchase: {Egg Roll=3}
-purchase copy: {Egg Roll=3}
-Actual Purchase: {Egg Roll=0}
-order[restaurant.EggRoll@1936f0f5, restaurant.EggRoll@6615435c, restaurant.EggRoll@4909b8da]
-Casual Customer: 
-Original Purchase: {Egg Roll=1}
-purchase copy: {Egg Roll=1}
-Actual Purchase: {Egg Roll=0}
-order[restaurant.EggRoll@3a03464]
-Casual Customer: 
-Original Purchase: {Pastry Roll=2}
-purchase copy: {Pastry Roll=2}
-Actual Purchase: {Pastry Roll=0}
-order[restaurant.PastryRoll@2d3fcdbd, restaurant.PastryRoll@617c74e5]
+order: [restaurant.SpringRoll@39fb3ab6]
+Spring Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce 5.0
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
-purchase copy: {Pastry Roll=2, Jelly Roll=2, Sausage Roll=2, Spring Roll=2, Egg Roll=2}
-Actual Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
-order[restaurant.PastryRoll@6537cf78, restaurant.PastryRoll@67b6d4ae, restaurant.JellyRoll@34b7bfc0, restaurant.JellyRoll@366e2eef, restaurant.SausageRoll@6df97b55, restaurant.SausageRoll@3cbbc1e0, restaurant.SpringRoll@35fb3008, restaurant.SpringRoll@7225790e, restaurant.EggRoll@54a097cc, restaurant.EggRoll@36f6e879]
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
-purchase copy: {Pastry Roll=2, Jelly Roll=2, Sausage Roll=2, Spring Roll=2, Egg Roll=2}
-Actual Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
-order[restaurant.PastryRoll@5a61f5df, restaurant.PastryRoll@3551a94, restaurant.JellyRoll@531be3c5, restaurant.JellyRoll@52af6cff, restaurant.SausageRoll@735b478, restaurant.SausageRoll@2c9f9fb0, restaurant.SpringRoll@2096442d, restaurant.SpringRoll@9f70c54, restaurant.EggRoll@234bef66, restaurant.EggRoll@737996a0]
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 2.
-Leftover Spring Rolls: 14
-Leftover Egg Rolls: 4
-Leftover Pastry Rolls: 14
-Leftover Sausage Rolls: 8
-Leftover Jelly Rolls: 9
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 3
+Leftover Jelly Rolls: 5
 
 ====================================================================================================
 
 Today is Day 3.
-Initial Spring Rolls: 14
-Initial Egg Rolls: 4
-Initial Pastry Rolls: 14
-Initial Sausage Rolls: 8
-Initial Jelly Rolls: 9
+Initial Spring Rolls: 30
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 3
+Initial Jelly Rolls: 5
 
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Egg Roll=5, Sausage Roll=5}
+Original Purchase: {Egg Roll=5, Pastry Roll=5, Sausage Roll=5}
 NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Egg Roll=5}
+order: [restaurant.JellyRoll@6276ae34, restaurant.JellyRoll@7946e1f4, restaurant.JellyRoll@3c09711b, restaurant.JellyRoll@5cc7c2a6, restaurant.JellyRoll@b97c004, restaurant.EggRoll@4590c9c3, restaurant.EggRoll@32e6e9c3, restaurant.EggRoll@5056dfcb, restaurant.EggRoll@6574b225, restaurant.EggRoll@2669b199]
+Jelly Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 4.5
+Jelly Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.0
+Jelly Roll 2.5
+Jelly Roll  Peanut Sauce 3.5
+Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
+Egg Roll  Fruit Preserves Topping 4.25
+Egg Roll  Shredded Carrots Topping 4.25
+Egg Roll  Shredded Carrots Topping 4.25
+Egg Roll  Shredded Carrots Topping  Sweet & Sour Sauce 5.25
+Egg Roll  Marinara Sauce  Marinara Sauce 5.75
 Casual Customer: 
-Original Purchase: {Jelly Roll=2}
-purchase copy: {Jelly Roll=2}
-Actual Purchase: {Jelly Roll=0}
-order[restaurant.JellyRoll@50f8360d, restaurant.JellyRoll@2cb4c3ab]
-Casual Customer: 
-Original Purchase: {Egg Roll=2}
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-purchase copy: {Spring Roll=2}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@13c78c0b, restaurant.SpringRoll@12843fce]
-Casual Customer: 
-Original Purchase: {Pastry Roll=2}
-purchase copy: {Pastry Roll=2}
-Actual Purchase: {Pastry Roll=0}
-order[restaurant.PastryRoll@3dd3bcd, restaurant.PastryRoll@97e1986]
+Original Purchase: {Sausage Roll=2}
 Casual Customer: 
 Original Purchase: {Egg Roll=3}
-Casual Customer: 
-Original Purchase: {Sausage Roll=3}
-purchase copy: {Sausage Roll=3}
-Actual Purchase: {Sausage Roll=0}
-order[restaurant.SausageRoll@26f67b76, restaurant.SausageRoll@153f5a29, restaurant.SausageRoll@7f560810]
-Casual Customer: 
-Original Purchase: {Sausage Roll=1}
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-purchase copy: {Spring Roll=3}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@69d9c55, restaurant.SpringRoll@13a57a3b, restaurant.SpringRoll@7ca48474]
-Casual Customer: 
-Original Purchase: {Egg Roll=1}
-Casual Customer: 
-Original Purchase: {Pastry Roll=1}
-purchase copy: {Pastry Roll=1}
-Actual Purchase: {Pastry Roll=0}
-order[restaurant.PastryRoll@337d0578]
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-purchase copy: {Spring Roll=2}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@59e84876, restaurant.SpringRoll@61a485d2]
-Casual Customer: 
-Original Purchase: {Pastry Roll=2}
-purchase copy: {Pastry Roll=2}
-Actual Purchase: {Pastry Roll=0}
-order[restaurant.PastryRoll@39fb3ab6, restaurant.PastryRoll@6276ae34]
-Casual Customer: 
-Original Purchase: {Egg Roll=3}
-Casual Customer: 
-Original Purchase: {Jelly Roll=1}
-purchase copy: {Jelly Roll=1}
-Actual Purchase: {Jelly Roll=0}
-order[restaurant.JellyRoll@7946e1f4]
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-purchase copy: {Jelly Roll=3}
-Actual Purchase: {Jelly Roll=0}
-order[restaurant.JellyRoll@3c09711b, restaurant.JellyRoll@5cc7c2a6, restaurant.JellyRoll@b97c004]
+order: [restaurant.EggRoll@2344fc66, restaurant.EggRoll@458ad742, restaurant.EggRoll@5afa04c]
+Egg Roll  Peanut Sauce  Peanut Sauce 5.75
+Egg Roll 3.75
+Egg Roll  Powdered Sugar Topping  Dark Chocolate Sauce 5.25
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 3.
-Leftover Spring Rolls: 5
-Leftover Egg Rolls: 0
-Leftover Pastry Rolls: 7
+Leftover Spring Rolls: 28
+Leftover Egg Rolls: 15
+Leftover Pastry Rolls: 23
 Leftover Sausage Rolls: 0
-Leftover Jelly Rolls: 1
-
-====================================================================================================
-
-Today is Day 4.
-Initial Spring Rolls: 5
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 7
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 1
-
-====================================================================================================
-
-Catering Customer: 
-Original Purchase: {Spring Roll=5, Sausage Roll=5}
-purchase copy: {Sausage Roll=5, Spring Roll=5}
-Actual Purchase: {Spring Roll=0, Sausage Roll=0}
-order[restaurant.SausageRoll@4590c9c3, restaurant.SausageRoll@32e6e9c3, restaurant.SausageRoll@5056dfcb, restaurant.SausageRoll@6574b225, restaurant.SausageRoll@2669b199, restaurant.SpringRoll@2344fc66, restaurant.SpringRoll@458ad742, restaurant.SpringRoll@5afa04c, restaurant.SpringRoll@6ea12c19, restaurant.SpringRoll@6a024a67]
-Catering Customer: 
-Original Purchase: {Jelly Roll=5, Egg Roll=5, Pastry Roll=5}
-NOT ENOUGH INVENTORY TO FILL CATERING ORDER
-Casual Customer: 
-Original Purchase: {Sausage Roll=1}
-purchase copy: {Sausage Roll=1}
-Actual Purchase: {Sausage Roll=0}
-order[restaurant.SausageRoll@7921b0a2]
-Casual Customer: 
-Original Purchase: {Jelly Roll=2}
-Casual Customer: 
-Original Purchase: {Egg Roll=2}
-purchase copy: {Egg Roll=2}
-Actual Purchase: {Egg Roll=0}
-order[restaurant.EggRoll@174d20a, restaurant.EggRoll@66d2e7d9]
-Casual Customer: 
-Original Purchase: {Pastry Roll=1}
-purchase copy: {Pastry Roll=1}
-Actual Purchase: {Pastry Roll=0}
-order[restaurant.PastryRoll@1efbd816]
-Casual Customer: 
-Original Purchase: {Sausage Roll=1}
-purchase copy: {Sausage Roll=1}
-Actual Purchase: {Sausage Roll=0}
-order[restaurant.SausageRoll@6a2bcfcb]
-Business Customer: 
-Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
-NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
-Business Customer: 
-Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
-NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
-Business Customer: 
-Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
-NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
-
-Inventory at the end of Day 4.
-Leftover Spring Rolls: 0
-Leftover Egg Rolls: 17
-Leftover Pastry Rolls: 0
-Leftover Sausage Rolls: 17
 Leftover Jelly Rolls: 0
 
 ====================================================================================================
 
-Today is Day 5.
-Initial Spring Rolls: 30
-Initial Egg Rolls: 17
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 17
+Today is Day 4.
+Initial Spring Rolls: 28
+Initial Egg Rolls: 15
+Initial Pastry Rolls: 23
+Initial Sausage Rolls: 30
 Initial Jelly Rolls: 30
 
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Jelly Roll=5, Pastry Roll=5}
-purchase copy: {Pastry Roll=5, Jelly Roll=5}
-Actual Purchase: {Jelly Roll=0, Pastry Roll=0}
-order[restaurant.PastryRoll@4de8b406, restaurant.PastryRoll@3c756e4d, restaurant.PastryRoll@7c0e2abd, restaurant.PastryRoll@48eff760, restaurant.PastryRoll@402f32ff, restaurant.JellyRoll@573f2bb1, restaurant.JellyRoll@5ae9a829, restaurant.JellyRoll@6d8a00e3, restaurant.JellyRoll@548b7f67, restaurant.JellyRoll@7ac7a4e4]
-Catering Customer: 
-Original Purchase: {Jelly Roll=5, Pastry Roll=5, Sausage Roll=5}
-purchase copy: {Pastry Roll=5, Jelly Roll=5, Sausage Roll=5}
-Actual Purchase: {Jelly Roll=0, Pastry Roll=0, Sausage Roll=0}
-order[restaurant.PastryRoll@6d78f375, restaurant.PastryRoll@50c87b21, restaurant.PastryRoll@5f375618, restaurant.PastryRoll@1810399e, restaurant.PastryRoll@32d992b2, restaurant.JellyRoll@215be6bb, restaurant.JellyRoll@4439f31e, restaurant.JellyRoll@5dfcfece, restaurant.JellyRoll@23ceabc1, restaurant.JellyRoll@5d5eef3d, restaurant.SausageRoll@56f4468b, restaurant.SausageRoll@6cc4c815, restaurant.SausageRoll@3a82f6ef, restaurant.SausageRoll@100fc185, restaurant.SausageRoll@643b1d11]
-Catering Customer: 
-Original Purchase: {Pastry Roll=5, Sausage Roll=5}
-purchase copy: {Pastry Roll=5, Sausage Roll=5}
-Actual Purchase: {Pastry Roll=0, Sausage Roll=0}
-order[restaurant.PastryRoll@2ef5e5e3, restaurant.PastryRoll@36d4b5c, restaurant.PastryRoll@6d00a15d, restaurant.PastryRoll@51efea79, restaurant.PastryRoll@5034c75a, restaurant.SausageRoll@396a51ab, restaurant.SausageRoll@51081592, restaurant.SausageRoll@7f9a81e8, restaurant.SausageRoll@9629756, restaurant.SausageRoll@62ee68d8]
+Original Purchase: {Pastry Roll=5}
+order: [restaurant.PastryRoll@6ea12c19, restaurant.PastryRoll@6a024a67, restaurant.PastryRoll@7921b0a2, restaurant.PastryRoll@174d20a, restaurant.PastryRoll@66d2e7d9]
+Pastry Roll  Mozzarella Cheese Topping  Peanut Sauce 4.25
+Pastry Roll 2.75
+Pastry Roll  Fruit Preserves Topping  Peanut Sauce 4.25
+Pastry Roll  Shredded Carrots Topping  Peanut Sauce  Peanut Sauce 5.25
+Pastry Roll  Powdered Sugar Topping 3.25
 Casual Customer: 
-Original Purchase: {Jelly Roll=2}
-purchase copy: {Jelly Roll=2}
-Actual Purchase: {Jelly Roll=0}
-order[restaurant.JellyRoll@735b5592, restaurant.JellyRoll@58651fd0]
+Original Purchase: {Egg Roll=2}
+order: [restaurant.EggRoll@1efbd816, restaurant.EggRoll@6a2bcfcb]
+Egg Roll  Fruit Preserves Topping 4.25
+Egg Roll  Powdered Sugar Topping  Marinara Sauce 5.25
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+order: [restaurant.PastryRoll@4de8b406, restaurant.PastryRoll@3c756e4d]
+Pastry Roll 2.75
+Pastry Roll  Powdered Sugar Topping 3.25
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+order: [restaurant.JellyRoll@7c0e2abd]
+Jelly Roll 2.5
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+order: [restaurant.SpringRoll@48eff760]
+Spring Roll  Cranberry Sauce  Cranberry Sauce 5.5
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+order: [restaurant.PastryRoll@402f32ff, restaurant.PastryRoll@573f2bb1]
+Pastry Roll  Shredded Carrots Topping  Peanut Sauce  Peanut Sauce 5.25
+Pastry Roll  Cranberry Sauce 3.75
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+order: [restaurant.SpringRoll@5ae9a829, restaurant.SpringRoll@6d8a00e3]
+Spring Roll 3.5
+Spring Roll  Shredded Cabbage Topping 4.0
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+order: [restaurant.JellyRoll@548b7f67, restaurant.JellyRoll@7ac7a4e4, restaurant.JellyRoll@6d78f375]
+Jelly Roll 2.5
+Jelly Roll  Shredded Cabbage Topping 3.0
+Jelly Roll  Marinara Sauce 3.5
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
-purchase copy: {Pastry Roll=2, Jelly Roll=2, Sausage Roll=2, Spring Roll=2, Egg Roll=2}
-Actual Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
-order[restaurant.PastryRoll@4520ebad, restaurant.PastryRoll@5419f379, restaurant.JellyRoll@7dc7cbad, restaurant.JellyRoll@d2cc05a, restaurant.SausageRoll@4f933fd1, restaurant.SausageRoll@548a9f61, restaurant.SpringRoll@1753acfe, restaurant.SpringRoll@7c16905e, restaurant.EggRoll@2a2d45ba, restaurant.EggRoll@2a5ca609]
+order: [restaurant.PastryRoll@50c87b21, restaurant.PastryRoll@5f375618, restaurant.JellyRoll@1810399e, restaurant.JellyRoll@32d992b2, restaurant.SausageRoll@215be6bb, restaurant.SausageRoll@4439f31e, restaurant.SpringRoll@5dfcfece, restaurant.SpringRoll@23ceabc1, restaurant.EggRoll@5d5eef3d, restaurant.EggRoll@56f4468b]
+Pastry Roll  Powdered Sugar Topping  Peanut Sauce 4.25
+Pastry Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.75
+Jelly Roll  Mozzarella Cheese Topping 3.0
+Jelly Roll  Marinara Sauce  Marinara Sauce 4.5
+Sausage Roll  Powdered Sugar Topping 4.5
+Sausage Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.5
+Spring Roll 3.5
+Spring Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.5
+Egg Roll  Shredded Cabbage Topping  Sweet & Sour Sauce 5.25
+Egg Roll  Shredded Cabbage Topping  Dark Chocolate Sauce 5.25
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
-purchase copy: {Pastry Roll=2, Jelly Roll=2, Sausage Roll=2, Spring Roll=2, Egg Roll=2}
-Actual Purchase: {Jelly Roll=0, Spring Roll=0, Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
-order[restaurant.PastryRoll@20e2cbe0, restaurant.PastryRoll@68be2bc2, restaurant.JellyRoll@28feb3fa, restaurant.JellyRoll@675d3402, restaurant.SausageRoll@51565ec2, restaurant.SausageRoll@482f8f11, restaurant.SpringRoll@1593948d, restaurant.SpringRoll@1b604f19, restaurant.EggRoll@7823a2f9, restaurant.EggRoll@4cc0edeb]
+order: [restaurant.PastryRoll@6cc4c815, restaurant.PastryRoll@3a82f6ef, restaurant.JellyRoll@100fc185, restaurant.JellyRoll@643b1d11, restaurant.SausageRoll@2ef5e5e3, restaurant.SausageRoll@36d4b5c, restaurant.SpringRoll@6d00a15d, restaurant.SpringRoll@51efea79, restaurant.EggRoll@5034c75a, restaurant.EggRoll@396a51ab]
+Pastry Roll  Powdered Sugar Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.25
+Pastry Roll  Shredded Cabbage Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.25
+Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
+Jelly Roll  Marinara Sauce 3.5
+Sausage Roll  Marinara Sauce 5.0
+Sausage Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
+Spring Roll  Fruit Preserves Topping  Peanut Sauce 5.0
+Spring Roll  Fruit Preserves Topping  Dark Chocolate Sauce 5.0
+Egg Roll  Mozzarella Cheese Topping  Cranberry Sauce 5.25
+Egg Roll 3.75
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+order: [restaurant.PastryRoll@51081592, restaurant.PastryRoll@7f9a81e8, restaurant.JellyRoll@9629756, restaurant.JellyRoll@62ee68d8, restaurant.SausageRoll@735b5592, restaurant.SausageRoll@58651fd0, restaurant.SpringRoll@4520ebad, restaurant.SpringRoll@5419f379, restaurant.EggRoll@7dc7cbad, restaurant.EggRoll@d2cc05a]
+Pastry Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 4.75
+Pastry Roll  Powdered Sugar Topping  Peanut Sauce 4.25
+Jelly Roll  Peanut Sauce  Peanut Sauce 4.5
+Jelly Roll  Mozzarella Cheese Topping 3.0
+Sausage Roll  Shredded Cabbage Topping  Cranberry Sauce  Cranberry Sauce 6.5
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce 5.5
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
+Spring Roll  Shredded Carrots Topping  Cranberry Sauce 5.0
+Egg Roll  Powdered Sugar Topping  Peanut Sauce 5.25
+Egg Roll  Shredded Carrots Topping 4.25
+
+Inventory at the end of Day 4.
+Leftover Spring Rolls: 19
+Leftover Egg Rolls: 7
+Leftover Pastry Rolls: 8
+Leftover Sausage Rolls: 24
+Leftover Jelly Rolls: 20
+
+====================================================================================================
+
+Today is Day 5.
+Initial Spring Rolls: 19
+Initial Egg Rolls: 7
+Initial Pastry Rolls: 8
+Initial Sausage Rolls: 24
+Initial Jelly Rolls: 20
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Sausage Roll=5}
+order: [restaurant.SausageRoll@4f933fd1, restaurant.SausageRoll@548a9f61, restaurant.SausageRoll@1753acfe, restaurant.SausageRoll@7c16905e, restaurant.SausageRoll@2a2d45ba, restaurant.JellyRoll@2a5ca609, restaurant.JellyRoll@20e2cbe0, restaurant.JellyRoll@68be2bc2, restaurant.JellyRoll@28feb3fa, restaurant.JellyRoll@675d3402]
+Sausage Roll  Shredded Cabbage Topping 4.5
+Sausage Roll  Shredded Carrots Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.5
+Sausage Roll  Shredded Cabbage Topping  Peanut Sauce 5.5
+Sausage Roll  Fruit Preserves Topping 4.5
+Sausage Roll  Peanut Sauce  Peanut Sauce 6.0
+Jelly Roll 2.5
+Jelly Roll  Mozzarella Cheese Topping  Peanut Sauce  Peanut Sauce 5.0
+Jelly Roll  Sweet & Sour Sauce 3.5
+Jelly Roll  Powdered Sugar Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.0
+Jelly Roll  Powdered Sugar Topping  Sweet & Sour Sauce 4.0
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+order: [restaurant.SausageRoll@51565ec2]
+Sausage Roll  Fruit Preserves Topping  Peanut Sauce 5.5
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+order: [restaurant.PastryRoll@482f8f11]
+Pastry Roll  Marinara Sauce  Marinara Sauce 4.75
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+order: [restaurant.PastryRoll@1593948d, restaurant.PastryRoll@1b604f19, restaurant.PastryRoll@7823a2f9]
+Pastry Roll 2.75
+Pastry Roll  Shredded Carrots Topping 3.25
+Pastry Roll  Powdered Sugar Topping 3.25
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+order: [restaurant.SausageRoll@4cc0edeb]
+Sausage Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.5
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+order: [restaurant.SpringRoll@457e2f02]
+Spring Roll  Powdered Sugar Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+order: [restaurant.SpringRoll@5c7fa833, restaurant.SpringRoll@39aeed2f]
+Spring Roll 3.5
+Spring Roll  Sweet & Sour Sauce 4.5
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+order: [restaurant.SausageRoll@724af044]
+Sausage Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 6.0
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+order: [restaurant.PastryRoll@4678c730, restaurant.PastryRoll@6767c1fc, restaurant.JellyRoll@29ee9faa, restaurant.JellyRoll@c038203, restaurant.SausageRoll@cc285f4, restaurant.SausageRoll@55f3ddb1, restaurant.SpringRoll@8bd1b6a, restaurant.SpringRoll@18be83e4, restaurant.EggRoll@cb5822, restaurant.EggRoll@4b9e13df]
+Pastry Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 5.25
+Pastry Roll  Fruit Preserves Topping  Cranberry Sauce 4.25
+Jelly Roll  Shredded Carrots Topping  Sweet & Sour Sauce 4.0
+Jelly Roll  Sweet & Sour Sauce 3.5
+Sausage Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.5
+Sausage Roll  Shredded Cabbage Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.5
+Spring Roll  Fruit Preserves Topping  Cranberry Sauce  Cranberry Sauce 6.0
+Spring Roll 3.5
+Egg Roll  Peanut Sauce 4.75
+Egg Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.75
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+order: [restaurant.PastryRoll@2b98378d, restaurant.PastryRoll@475530b9, restaurant.JellyRoll@1d057a39, restaurant.JellyRoll@26be92ad, restaurant.SausageRoll@4c70fda8, restaurant.SausageRoll@224edc67, restaurant.SpringRoll@14acaea5, restaurant.SpringRoll@46d56d67, restaurant.EggRoll@d8355a8, restaurant.EggRoll@59fa1d9b]
+Pastry Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce 5.25
+Pastry Roll  Shredded Cabbage Topping 3.25
+Jelly Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 4.5
+Jelly Roll  Powdered Sugar Topping 3.0
+Sausage Roll 4.0
+Sausage Roll  Marinara Sauce 5.0
+Spring Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.5
+Spring Roll  Shredded Carrots Topping  Marinara Sauce 5.0
+Egg Roll  Sweet & Sour Sauce 4.75
+Egg Roll 3.75
 
 Inventory at the end of Day 5.
-Leftover Spring Rolls: 26
-Leftover Egg Rolls: 13
-Leftover Pastry Rolls: 11
-Leftover Sausage Rolls: 3
-Leftover Jelly Rolls: 14
+Leftover Spring Rolls: 12
+Leftover Egg Rolls: 3
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 12
+Leftover Jelly Rolls: 11
 
 ====================================================================================================
 
 Today is Day 6.
-Initial Spring Rolls: 26
-Initial Egg Rolls: 13
-Initial Pastry Rolls: 11
-Initial Sausage Rolls: 3
-Initial Jelly Rolls: 14
+Initial Spring Rolls: 12
+Initial Egg Rolls: 3
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 12
+Initial Jelly Rolls: 11
 
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Spring Roll=5, Egg Roll=5, Pastry Roll=5}
-purchase copy: {Pastry Roll=5, Spring Roll=5, Egg Roll=5}
-Actual Purchase: {Spring Roll=0, Egg Roll=0, Pastry Roll=0}
-order[restaurant.PastryRoll@457e2f02, restaurant.PastryRoll@5c7fa833, restaurant.PastryRoll@39aeed2f, restaurant.PastryRoll@724af044, restaurant.PastryRoll@4678c730, restaurant.SpringRoll@6767c1fc, restaurant.SpringRoll@29ee9faa, restaurant.SpringRoll@c038203, restaurant.SpringRoll@cc285f4, restaurant.SpringRoll@55f3ddb1, restaurant.EggRoll@8bd1b6a, restaurant.EggRoll@18be83e4, restaurant.EggRoll@cb5822, restaurant.EggRoll@4b9e13df, restaurant.EggRoll@2b98378d]
+Original Purchase: {Jelly Roll=5, Egg Roll=5, Pastry Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+order: [restaurant.SausageRoll@28d25987, restaurant.SausageRoll@4501b7af]
+Sausage Roll  Cranberry Sauce  Cranberry Sauce 6.0
+Sausage Roll 4.0
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+order: [restaurant.PastryRoll@523884b2, restaurant.PastryRoll@5b275dab, restaurant.PastryRoll@61832929]
+Pastry Roll  Shredded Cabbage Topping  Cranberry Sauce  Cranberry Sauce 5.25
+Pastry Roll  Powdered Sugar Topping 3.25
+Pastry Roll 2.75
+Casual Customer: 
+Original Purchase: {Sausage Roll=2}
+order: [restaurant.SausageRoll@29774679, restaurant.SausageRoll@3ffc5af1]
+Sausage Roll  Fruit Preserves Topping  Peanut Sauce  Peanut Sauce 6.5
+Sausage Roll  Marinara Sauce 5.0
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+order: [restaurant.SpringRoll@5e5792a0]
+Spring Roll 3.5
 Casual Customer: 
 Original Purchase: {Sausage Roll=3}
-purchase copy: {Sausage Roll=3}
-Actual Purchase: {Sausage Roll=0}
-order[restaurant.SausageRoll@475530b9, restaurant.SausageRoll@1d057a39, restaurant.SausageRoll@26be92ad]
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-purchase copy: {Spring Roll=2}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@4c70fda8, restaurant.SpringRoll@224edc67]
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-purchase copy: {Spring Roll=2}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@14acaea5, restaurant.SpringRoll@46d56d67]
-Casual Customer: 
-Original Purchase: {Spring Roll=1}
-purchase copy: {Spring Roll=1}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@d8355a8]
-Casual Customer: 
-Original Purchase: {Sausage Roll=1}
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-purchase copy: {Spring Roll=2}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@59fa1d9b, restaurant.SpringRoll@28d25987]
-Casual Customer: 
-Original Purchase: {Spring Roll=1}
-purchase copy: {Spring Roll=1}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@4501b7af]
-Casual Customer: 
-Original Purchase: {Spring Roll=1}
-purchase copy: {Spring Roll=1}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@523884b2]
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-purchase copy: {Spring Roll=2}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@5b275dab, restaurant.SpringRoll@61832929]
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-purchase copy: {Jelly Roll=3}
-Actual Purchase: {Jelly Roll=0}
-order[restaurant.JellyRoll@29774679, restaurant.JellyRoll@3ffc5af1, restaurant.JellyRoll@5e5792a0]
+order: [restaurant.SausageRoll@26653222, restaurant.SausageRoll@3532ec19, restaurant.SausageRoll@68c4039c]
+Sausage Roll  Marinara Sauce 5.0
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce 5.5
+Sausage Roll  Peanut Sauce 5.0
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 6.
-Leftover Spring Rolls: 8
-Leftover Egg Rolls: 6
-Leftover Pastry Rolls: 4
-Leftover Sausage Rolls: 0
-Leftover Jelly Rolls: 9
+Leftover Spring Rolls: 7
+Leftover Egg Rolls: 0
+Leftover Pastry Rolls: 18
+Leftover Sausage Rolls: 1
+Leftover Jelly Rolls: 2
 
 ====================================================================================================
 
 Today is Day 7.
-Initial Spring Rolls: 8
-Initial Egg Rolls: 6
-Initial Pastry Rolls: 4
-Initial Sausage Rolls: 30
-Initial Jelly Rolls: 9
+Initial Spring Rolls: 7
+Initial Egg Rolls: 30
+Initial Pastry Rolls: 18
+Initial Sausage Rolls: 1
+Initial Jelly Rolls: 2
 
 ====================================================================================================
 
 Catering Customer: 
+Original Purchase: {Jelly Roll=5, Spring Roll=5, Pastry Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Pastry Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
+Catering Customer: 
 Original Purchase: {Jelly Roll=5, Egg Roll=5}
-purchase copy: {Jelly Roll=5, Egg Roll=5}
-Actual Purchase: {Jelly Roll=0, Egg Roll=0}
-order[restaurant.JellyRoll@26653222, restaurant.JellyRoll@3532ec19, restaurant.JellyRoll@68c4039c, restaurant.JellyRoll@ae45eb6, restaurant.JellyRoll@59f99ea, restaurant.EggRoll@27efef64, restaurant.EggRoll@6f7fd0e6, restaurant.EggRoll@47c62251, restaurant.EggRoll@3e6fa38a, restaurant.EggRoll@66a3ffec]
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
 Casual Customer: 
-Original Purchase: {Jelly Roll=1}
-purchase copy: {Jelly Roll=1}
-Actual Purchase: {Jelly Roll=0}
-order[restaurant.JellyRoll@77caeb3e]
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-purchase copy: {Spring Roll=2}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@1e88b3c, restaurant.SpringRoll@42d80b78]
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-purchase copy: {Spring Roll=2}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@3bfdc050, restaurant.SpringRoll@1bce4f0a]
-Casual Customer: 
-Original Purchase: {Spring Roll=1}
-purchase copy: {Spring Roll=1}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@5e3a8624]
+Original Purchase: {Pastry Roll=2}
+order: [restaurant.PastryRoll@ae45eb6, restaurant.PastryRoll@59f99ea]
+Pastry Roll 2.75
+Pastry Roll  Mozzarella Cheese Topping 3.25
 Casual Customer: 
 Original Purchase: {Pastry Roll=3}
-purchase copy: {Pastry Roll=3}
-Actual Purchase: {Pastry Roll=0}
-order[restaurant.PastryRoll@5c3bd550, restaurant.PastryRoll@91161c7, restaurant.PastryRoll@604ed9f0]
+order: [restaurant.PastryRoll@27efef64, restaurant.PastryRoll@6f7fd0e6, restaurant.PastryRoll@47c62251]
+Pastry Roll  Mozzarella Cheese Topping  Peanut Sauce  Peanut Sauce 5.25
+Pastry Roll 2.75
+Pastry Roll  Cranberry Sauce  Cranberry Sauce 4.75
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+order: [restaurant.PastryRoll@3e6fa38a, restaurant.PastryRoll@66a3ffec]
+Pastry Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.25
+Pastry Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.75
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+order: [restaurant.EggRoll@77caeb3e]
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.75
 Casual Customer: 
 Original Purchase: {Sausage Roll=2}
-purchase copy: {Sausage Roll=2}
-Actual Purchase: {Sausage Roll=0}
-order[restaurant.SausageRoll@6a4f787b, restaurant.SausageRoll@685cb137]
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+order: [restaurant.EggRoll@1e88b3c]
+Egg Roll  Shredded Cabbage Topping  Cranberry Sauce 5.25
+Casual Customer: 
+Original Purchase: {Sausage Roll=1}
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+order: [restaurant.PastryRoll@42d80b78]
+Pastry Roll  Shredded Cabbage Topping  Peanut Sauce 4.25
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+order: [restaurant.EggRoll@3bfdc050, restaurant.EggRoll@1bce4f0a]
+Egg Roll 3.75
+Egg Roll 3.75
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 7.
-Leftover Spring Rolls: 1
-Leftover Egg Rolls: 0
-Leftover Pastry Rolls: 0
-Leftover Sausage Rolls: 26
-Leftover Jelly Rolls: 1
-
-====================================================================================================
-
-Today is Day 8.
-Initial Spring Rolls: 1
-Initial Egg Rolls: 30
-Initial Pastry Rolls: 30
-Initial Sausage Rolls: 26
-Initial Jelly Rolls: 1
-
-====================================================================================================
-
-Catering Customer: 
-Original Purchase: {Spring Roll=5, Egg Roll=5, Sausage Roll=5}
-NOT ENOUGH INVENTORY TO FILL CATERING ORDER
-Catering Customer: 
-Original Purchase: {Spring Roll=5, Egg Roll=5}
-NOT ENOUGH INVENTORY TO FILL CATERING ORDER
-Casual Customer: 
-Original Purchase: {Jelly Roll=1}
-purchase copy: {Jelly Roll=1}
-Actual Purchase: {Jelly Roll=0}
-order[restaurant.JellyRoll@6a41eaa2]
-Casual Customer: 
-Original Purchase: {Egg Roll=2}
-purchase copy: {Egg Roll=2}
-Actual Purchase: {Egg Roll=0}
-order[restaurant.EggRoll@7cd62f43, restaurant.EggRoll@6d4b1c02]
-Casual Customer: 
-Original Purchase: {Jelly Roll=2}
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-Casual Customer: 
-Original Purchase: {Spring Roll=1}
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-Casual Customer: 
-Original Purchase: {Spring Roll=3}
-Casual Customer: 
-Original Purchase: {Pastry Roll=3}
-purchase copy: {Pastry Roll=3}
-Actual Purchase: {Pastry Roll=0}
-order[restaurant.PastryRoll@6093dd95, restaurant.PastryRoll@5622fdf, restaurant.PastryRoll@4883b407]
-Casual Customer: 
-Original Purchase: {Egg Roll=3}
-purchase copy: {Egg Roll=3}
-Actual Purchase: {Egg Roll=0}
-order[restaurant.EggRoll@7d9d1a19, restaurant.EggRoll@39c0f4a, restaurant.EggRoll@1794d431]
-Casual Customer: 
-Original Purchase: {Egg Roll=3}
-purchase copy: {Egg Roll=3}
-Actual Purchase: {Egg Roll=0}
-order[restaurant.EggRoll@42e26948, restaurant.EggRoll@57baeedf, restaurant.EggRoll@343f4d3d]
-Casual Customer: 
-Original Purchase: {Sausage Roll=3}
-purchase copy: {Sausage Roll=3}
-Actual Purchase: {Sausage Roll=0}
-order[restaurant.SausageRoll@53b32d7, restaurant.SausageRoll@5442a311, restaurant.SausageRoll@548e7350]
-Casual Customer: 
-Original Purchase: {Egg Roll=1}
-purchase copy: {Egg Roll=1}
-Actual Purchase: {Egg Roll=0}
-order[restaurant.EggRoll@1a968a59]
-Casual Customer: 
-Original Purchase: {Spring Roll=1}
-Casual Customer: 
-Original Purchase: {Egg Roll=1}
-purchase copy: {Egg Roll=1}
-Actual Purchase: {Egg Roll=0}
-order[restaurant.EggRoll@4667ae56]
-Casual Customer: 
-Original Purchase: {Spring Roll=2}
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-Casual Customer: 
-Original Purchase: {Egg Roll=3}
-purchase copy: {Egg Roll=3}
-Actual Purchase: {Egg Roll=0}
-order[restaurant.EggRoll@77cd7a0, restaurant.EggRoll@204f30ec, restaurant.EggRoll@e25b2fe]
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-Casual Customer: 
-Original Purchase: {Pastry Roll=1}
-purchase copy: {Pastry Roll=1}
-Actual Purchase: {Pastry Roll=0}
-order[restaurant.PastryRoll@754ba872]
-Business Customer: 
-Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
-NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
-Business Customer: 
-Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
-NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
-
-Inventory at the end of Day 8.
 Leftover Spring Rolls: 0
-Leftover Egg Rolls: 3
-Leftover Pastry Rolls: 22
-Leftover Sausage Rolls: 14
+Leftover Egg Rolls: 19
+Leftover Pastry Rolls: 0
+Leftover Sausage Rolls: 0
 Leftover Jelly Rolls: 0
 
 ====================================================================================================
 
-Today is Day 9.
+Today is Day 8.
 Initial Spring Rolls: 30
-Initial Egg Rolls: 3
-Initial Pastry Rolls: 22
-Initial Sausage Rolls: 14
+Initial Egg Rolls: 19
+Initial Pastry Rolls: 30
+Initial Sausage Rolls: 30
 Initial Jelly Rolls: 30
 
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Pastry Roll=5, Sausage Roll=5}
-purchase copy: {Pastry Roll=5, Sausage Roll=5}
-Actual Purchase: {Pastry Roll=0, Sausage Roll=0}
-order[restaurant.PastryRoll@146ba0ac, restaurant.PastryRoll@4dfa3a9d, restaurant.PastryRoll@6eebc39e, restaurant.PastryRoll@464bee09, restaurant.PastryRoll@f6c48ac, restaurant.SausageRoll@13deb50e, restaurant.SausageRoll@239963d8, restaurant.SausageRoll@3abbfa04, restaurant.SausageRoll@57fffcd7, restaurant.SausageRoll@31ef45e3]
-Casual Customer: 
-Original Purchase: {Jelly Roll=1}
-purchase copy: {Jelly Roll=1}
-Actual Purchase: {Jelly Roll=0}
-order[restaurant.JellyRoll@598067a5]
-Casual Customer: 
-Original Purchase: {Egg Roll=3}
-purchase copy: {Egg Roll=3}
-Actual Purchase: {Egg Roll=0}
-order[restaurant.EggRoll@3c0ecd4b, restaurant.EggRoll@14bf9759, restaurant.EggRoll@5f341870]
-Casual Customer: 
-Original Purchase: {Jelly Roll=1}
-purchase copy: {Jelly Roll=1}
-Actual Purchase: {Jelly Roll=0}
-order[restaurant.JellyRoll@553f17c]
-Casual Customer: 
-Original Purchase: {Egg Roll=2}
-Casual Customer: 
-Original Purchase: {Egg Roll=1}
-Casual Customer: 
-Original Purchase: {Jelly Roll=2}
-purchase copy: {Jelly Roll=2}
-Actual Purchase: {Jelly Roll=0}
-order[restaurant.JellyRoll@4f7d0008, restaurant.JellyRoll@271053e1]
-Casual Customer: 
-Original Purchase: {Egg Roll=2}
-Casual Customer: 
-Original Purchase: {Sausage Roll=1}
-purchase copy: {Sausage Roll=1}
-Actual Purchase: {Sausage Roll=0}
-order[restaurant.SausageRoll@589838eb]
-Casual Customer: 
-Original Purchase: {Sausage Roll=3}
-purchase copy: {Sausage Roll=3}
-Actual Purchase: {Sausage Roll=0}
-order[restaurant.SausageRoll@42dafa95, restaurant.SausageRoll@6500df86, restaurant.SausageRoll@402a079c]
-Casual Customer: 
-Original Purchase: {Pastry Roll=1}
-purchase copy: {Pastry Roll=1}
-Actual Purchase: {Pastry Roll=0}
-order[restaurant.PastryRoll@59ec2012]
-Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-purchase copy: {Jelly Roll=3}
-Actual Purchase: {Jelly Roll=0}
-order[restaurant.JellyRoll@4cf777e8, restaurant.JellyRoll@2f686d1f, restaurant.JellyRoll@3fee9989]
+Original Purchase: {Egg Roll=5, Pastry Roll=5}
+order: [restaurant.PastryRoll@5e3a8624, restaurant.PastryRoll@5c3bd550, restaurant.PastryRoll@91161c7, restaurant.PastryRoll@604ed9f0, restaurant.PastryRoll@6a4f787b, restaurant.EggRoll@685cb137, restaurant.EggRoll@6a41eaa2, restaurant.EggRoll@7cd62f43, restaurant.EggRoll@6d4b1c02, restaurant.EggRoll@6093dd95]
+Pastry Roll  Shredded Cabbage Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.25
+Pastry Roll  Fruit Preserves Topping 3.25
+Pastry Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 5.25
+Pastry Roll  Cranberry Sauce  Cranberry Sauce 4.75
+Pastry Roll  Dark Chocolate Sauce 3.75
+Egg Roll  Shredded Carrots Topping  Peanut Sauce 5.25
+Egg Roll  Mozzarella Cheese Topping 4.25
+Egg Roll  Cranberry Sauce 4.75
+Egg Roll  Shredded Carrots Topping 4.25
+Egg Roll  Mozzarella Cheese Topping  Dark Chocolate Sauce 5.25
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Sausage Roll=5}
+order: [restaurant.SausageRoll@5622fdf, restaurant.SausageRoll@4883b407, restaurant.SausageRoll@7d9d1a19, restaurant.SausageRoll@39c0f4a, restaurant.SausageRoll@1794d431, restaurant.SpringRoll@42e26948, restaurant.SpringRoll@57baeedf, restaurant.SpringRoll@343f4d3d, restaurant.SpringRoll@53b32d7, restaurant.SpringRoll@5442a311]
+Sausage Roll  Mozzarella Cheese Topping 4.5
+Sausage Roll 4.0
+Sausage Roll  Shredded Cabbage Topping  Marinara Sauce  Marinara Sauce 6.5
+Sausage Roll  Shredded Carrots Topping 4.5
+Sausage Roll 4.0
+Spring Roll  Powdered Sugar Topping  Peanut Sauce 5.0
+Spring Roll  Powdered Sugar Topping  Peanut Sauce 5.0
+Spring Roll  Marinara Sauce 4.5
+Spring Roll 3.5
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
+Catering Customer: 
+Original Purchase: {Jelly Roll=5, Sausage Roll=5}
+order: [restaurant.SausageRoll@548e7350, restaurant.SausageRoll@1a968a59, restaurant.SausageRoll@4667ae56, restaurant.SausageRoll@77cd7a0, restaurant.SausageRoll@204f30ec, restaurant.JellyRoll@e25b2fe, restaurant.JellyRoll@754ba872, restaurant.JellyRoll@146ba0ac, restaurant.JellyRoll@4dfa3a9d, restaurant.JellyRoll@6eebc39e]
+Sausage Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 6.5
+Sausage Roll  Peanut Sauce  Peanut Sauce 6.0
+Sausage Roll  Marinara Sauce  Marinara Sauce 6.0
+Sausage Roll 4.0
+Sausage Roll  Fruit Preserves Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.5
+Jelly Roll  Powdered Sugar Topping 3.0
+Jelly Roll  Shredded Carrots Topping  Dark Chocolate Sauce 4.0
+Jelly Roll  Powdered Sugar Topping  Dark Chocolate Sauce 4.0
+Jelly Roll  Dark Chocolate Sauce 3.5
+Jelly Roll  Dark Chocolate Sauce 3.5
 Casual Customer: 
 Original Purchase: {Egg Roll=2}
+order: [restaurant.EggRoll@464bee09, restaurant.EggRoll@f6c48ac]
+Egg Roll  Mozzarella Cheese Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 6.25
+Egg Roll  Peanut Sauce 4.75
+Casual Customer: 
+Original Purchase: {Egg Roll=2}
+order: [restaurant.EggRoll@13deb50e, restaurant.EggRoll@239963d8]
+Egg Roll  Cranberry Sauce 4.75
+Egg Roll  Powdered Sugar Topping  Sweet & Sour Sauce 5.25
 Casual Customer: 
 Original Purchase: {Spring Roll=2}
-purchase copy: {Spring Roll=2}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@73ad2d6, restaurant.SpringRoll@7085bdee]
+order: [restaurant.SpringRoll@3abbfa04, restaurant.SpringRoll@57fffcd7]
+Spring Roll  Peanut Sauce 4.5
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
 Casual Customer: 
-Original Purchase: {Pastry Roll=3}
-purchase copy: {Pastry Roll=3}
-Actual Purchase: {Pastry Roll=0}
-order[restaurant.PastryRoll@1ce92674, restaurant.PastryRoll@5700d6b1, restaurant.PastryRoll@6fd02e5]
+Original Purchase: {Egg Roll=1}
+order: [restaurant.EggRoll@31ef45e3]
+Egg Roll  Fruit Preserves Topping  Peanut Sauce  Peanut Sauce 6.25
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+order: [restaurant.SausageRoll@598067a5, restaurant.SausageRoll@3c0ecd4b, restaurant.SausageRoll@14bf9759]
+Sausage Roll  Powdered Sugar Topping  Marinara Sauce  Marinara Sauce 6.5
+Sausage Roll 4.0
+Sausage Roll  Shredded Cabbage Topping  Marinara Sauce 5.5
+Casual Customer: 
+Original Purchase: {Pastry Roll=1}
+order: [restaurant.PastryRoll@5f341870]
+Pastry Roll  Dark Chocolate Sauce 3.75
+Casual Customer: 
+Original Purchase: {Jelly Roll=3}
+order: [restaurant.JellyRoll@553f17c, restaurant.JellyRoll@4f7d0008, restaurant.JellyRoll@271053e1]
+Jelly Roll  Shredded Cabbage Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.0
+Jelly Roll  Shredded Carrots Topping 3.0
+Jelly Roll  Mozzarella Cheese Topping 3.0
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+order: [restaurant.EggRoll@589838eb]
+Egg Roll  Marinara Sauce 4.75
 Casual Customer: 
 Original Purchase: {Sausage Roll=2}
-purchase copy: {Sausage Roll=2}
-Actual Purchase: {Sausage Roll=0}
-order[restaurant.SausageRoll@5bcab519, restaurant.SausageRoll@e45f292]
+order: [restaurant.SausageRoll@42dafa95, restaurant.SausageRoll@6500df86]
+Sausage Roll  Mozzarella Cheese Topping 4.5
+Sausage Roll  Shredded Cabbage Topping  Sweet & Sour Sauce 5.5
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+order: [restaurant.PastryRoll@402a079c, restaurant.PastryRoll@59ec2012]
+Pastry Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 4.75
+Pastry Roll  Shredded Carrots Topping  Marinara Sauce 4.25
+Casual Customer: 
+Original Purchase: {Egg Roll=1}
+order: [restaurant.EggRoll@4cf777e8]
+Egg Roll 3.75
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+order: [restaurant.PastryRoll@2f686d1f, restaurant.PastryRoll@3fee9989, restaurant.JellyRoll@73ad2d6, restaurant.JellyRoll@7085bdee, restaurant.SausageRoll@1ce92674, restaurant.SausageRoll@5700d6b1, restaurant.SpringRoll@6fd02e5, restaurant.SpringRoll@5bcab519, restaurant.EggRoll@e45f292, restaurant.EggRoll@5f2108b5]
+Pastry Roll  Powdered Sugar Topping  Marinara Sauce 4.25
+Pastry Roll  Peanut Sauce  Peanut Sauce 4.75
+Jelly Roll  Fruit Preserves Topping  Peanut Sauce 4.0
+Jelly Roll  Shredded Carrots Topping 3.0
+Sausage Roll  Cranberry Sauce 5.0
+Sausage Roll 4.0
+Spring Roll  Sweet & Sour Sauce 4.5
+Spring Roll  Mozzarella Cheese Topping 4.0
+Egg Roll 3.75
+Egg Roll  Mozzarella Cheese Topping 4.25
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+order: [restaurant.PastryRoll@31a5c39e, restaurant.PastryRoll@3f49dace, restaurant.JellyRoll@1e397ed7, restaurant.JellyRoll@490ab905, restaurant.SausageRoll@56ac3a89, restaurant.SausageRoll@27c20538, restaurant.SpringRoll@72d818d1, restaurant.SpringRoll@6e06451e, restaurant.EggRoll@59494225, restaurant.EggRoll@6e1567f1]
+Pastry Roll  Fruit Preserves Topping 3.25
+Pastry Roll  Peanut Sauce  Peanut Sauce 4.75
+Jelly Roll 2.5
+Jelly Roll  Peanut Sauce 3.5
+Sausage Roll  Mozzarella Cheese Topping  Cranberry Sauce  Cranberry Sauce 6.5
+Sausage Roll  Marinara Sauce  Marinara Sauce 6.0
+Spring Roll  Mozzarella Cheese Topping  Cranberry Sauce 5.0
+Spring Roll  Fruit Preserves Topping  Sweet & Sour Sauce 5.0
+Egg Roll 3.75
+Egg Roll 3.75
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+order: [restaurant.PastryRoll@5cb9f472, restaurant.PastryRoll@cb644e, restaurant.JellyRoll@13805618, restaurant.JellyRoll@56ef9176, restaurant.SausageRoll@4566e5bd, restaurant.SausageRoll@1ed4004b, restaurant.SpringRoll@ff5b51f, restaurant.SpringRoll@25bbe1b6, restaurant.EggRoll@5702b3b1, restaurant.EggRoll@69ea3742]
+Pastry Roll 2.75
+Pastry Roll  Powdered Sugar Topping 3.25
+Jelly Roll  Powdered Sugar Topping  Dark Chocolate Sauce 4.0
+Jelly Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 4.5
+Sausage Roll 4.0
+Sausage Roll  Shredded Cabbage Topping 4.5
+Spring Roll 3.5
+Spring Roll 3.5
+Egg Roll  Peanut Sauce  Peanut Sauce 5.75
+Egg Roll  Marinara Sauce  Marinara Sauce 5.75
+
+Inventory at the end of Day 8.
+Leftover Spring Rolls: 17
+Leftover Egg Rolls: 1
+Leftover Pastry Rolls: 16
+Leftover Sausage Rolls: 9
+Leftover Jelly Rolls: 16
+
+====================================================================================================
+
+Today is Day 9.
+Initial Spring Rolls: 17
+Initial Egg Rolls: 1
+Initial Pastry Rolls: 16
+Initial Sausage Rolls: 9
+Initial Jelly Rolls: 16
+
+====================================================================================================
+
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Sausage Roll=5}
+order: [restaurant.SausageRoll@4b952a2d, restaurant.SausageRoll@3159c4b8, restaurant.SausageRoll@73846619, restaurant.SausageRoll@4bec1f0c, restaurant.SausageRoll@29ca901e, restaurant.SpringRoll@5649fd9b, restaurant.SpringRoll@6adede5, restaurant.SpringRoll@2d928643, restaurant.SpringRoll@5025a98f, restaurant.SpringRoll@49993335]
+Sausage Roll  Fruit Preserves Topping  Marinara Sauce 5.5
+Sausage Roll 4.0
+Sausage Roll  Shredded Carrots Topping 4.5
+Sausage Roll  Shredded Carrots Topping 4.5
+Sausage Roll  Sweet & Sour Sauce 5.0
+Spring Roll  Cranberry Sauce 4.5
+Spring Roll  Dark Chocolate Sauce  Dark Chocolate Sauce 5.5
+Spring Roll  Powdered Sugar Topping  Cranberry Sauce  Cranberry Sauce 6.0
+Spring Roll  Fruit Preserves Topping 4.0
+Spring Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce 6.0
+Casual Customer: 
+Original Purchase: {Pastry Roll=3}
+order: [restaurant.PastryRoll@20322d26, restaurant.PastryRoll@192b07fd, restaurant.PastryRoll@64bfbc86]
+Pastry Roll  Mozzarella Cheese Topping 3.25
+Pastry Roll  Peanut Sauce 3.75
+Pastry Roll 2.75
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+order: [restaurant.JellyRoll@64bf3bbf]
+Jelly Roll  Shredded Carrots Topping  Cranberry Sauce  Cranberry Sauce 5.0
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+order: [restaurant.PastryRoll@55d56113, restaurant.PastryRoll@148080bb]
+Pastry Roll  Shredded Cabbage Topping 3.25
+Pastry Roll  Cranberry Sauce  Cranberry Sauce 4.75
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
@@ -656,83 +774,129 @@ Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Saus
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 9.
-Leftover Spring Rolls: 24
+Leftover Spring Rolls: 8
 Leftover Egg Rolls: 0
-Leftover Pastry Rolls: 9
+Leftover Pastry Rolls: 7
 Leftover Sausage Rolls: 0
-Leftover Jelly Rolls: 19
+Leftover Jelly Rolls: 11
 
 ====================================================================================================
 
 Today is Day 10.
-Initial Spring Rolls: 24
+Initial Spring Rolls: 8
 Initial Egg Rolls: 30
-Initial Pastry Rolls: 9
+Initial Pastry Rolls: 7
 Initial Sausage Rolls: 30
-Initial Jelly Rolls: 19
+Initial Jelly Rolls: 11
 
 ====================================================================================================
 
 Catering Customer: 
-Original Purchase: {Egg Roll=5, Pastry Roll=5, Sausage Roll=5}
-purchase copy: {Pastry Roll=5, Sausage Roll=5, Egg Roll=5}
-Actual Purchase: {Egg Roll=0, Pastry Roll=0, Sausage Roll=0}
-order[restaurant.PastryRoll@5f2108b5, restaurant.PastryRoll@31a5c39e, restaurant.PastryRoll@3f49dace, restaurant.PastryRoll@1e397ed7, restaurant.PastryRoll@490ab905, restaurant.SausageRoll@56ac3a89, restaurant.SausageRoll@27c20538, restaurant.SausageRoll@72d818d1, restaurant.SausageRoll@6e06451e, restaurant.SausageRoll@59494225, restaurant.EggRoll@6e1567f1, restaurant.EggRoll@5cb9f472, restaurant.EggRoll@cb644e, restaurant.EggRoll@13805618, restaurant.EggRoll@56ef9176]
+Original Purchase: {Jelly Roll=5, Egg Roll=5}
+order: [restaurant.JellyRoll@dc24521, restaurant.JellyRoll@10bdf5e5, restaurant.JellyRoll@6e1ec318, restaurant.JellyRoll@7e0b0338, restaurant.JellyRoll@617faa95, restaurant.EggRoll@1e127982, restaurant.EggRoll@60c6f5b, restaurant.EggRoll@2038ae61, restaurant.EggRoll@3c0f93f1, restaurant.EggRoll@31dc339b]
+Jelly Roll  Fruit Preserves Topping  Cranberry Sauce 4.0
+Jelly Roll  Shredded Cabbage Topping  Peanut Sauce  Peanut Sauce 5.0
+Jelly Roll  Fruit Preserves Topping 3.0
+Jelly Roll  Powdered Sugar Topping 3.0
+Jelly Roll  Fruit Preserves Topping  Dark Chocolate Sauce 4.0
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.75
+Egg Roll  Fruit Preserves Topping  Marinara Sauce  Marinara Sauce 6.25
+Egg Roll  Powdered Sugar Topping  Peanut Sauce 5.25
+Egg Roll 3.75
+Egg Roll  Dark Chocolate Sauce 4.75
 Catering Customer: 
-Original Purchase: {Jelly Roll=5, Spring Roll=5}
-purchase copy: {Jelly Roll=5, Spring Roll=5}
-Actual Purchase: {Jelly Roll=0, Spring Roll=0}
-order[restaurant.JellyRoll@4566e5bd, restaurant.JellyRoll@1ed4004b, restaurant.JellyRoll@ff5b51f, restaurant.JellyRoll@25bbe1b6, restaurant.JellyRoll@5702b3b1, restaurant.SpringRoll@69ea3742, restaurant.SpringRoll@4b952a2d, restaurant.SpringRoll@3159c4b8, restaurant.SpringRoll@73846619, restaurant.SpringRoll@4bec1f0c]
-Casual Customer: 
-Original Purchase: {Sausage Roll=2}
-purchase copy: {Sausage Roll=2}
-Actual Purchase: {Sausage Roll=0}
-order[restaurant.SausageRoll@29ca901e, restaurant.SausageRoll@5649fd9b]
+Original Purchase: {Spring Roll=5, Egg Roll=5}
+order: [restaurant.SpringRoll@544fe44c, restaurant.SpringRoll@31610302, restaurant.SpringRoll@71318ec4, restaurant.SpringRoll@21213b92, restaurant.SpringRoll@a67c67e, restaurant.EggRoll@3327bd23, restaurant.EggRoll@4e1d422d, restaurant.EggRoll@66480dd7, restaurant.EggRoll@52a86356, restaurant.EggRoll@5ce81285]
+Spring Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.5
+Spring Roll  Peanut Sauce 4.5
+Spring Roll  Cranberry Sauce 4.5
+Spring Roll  Marinara Sauce  Marinara Sauce 5.5
+Spring Roll  Cranberry Sauce  Cranberry Sauce 5.5
+Egg Roll  Fruit Preserves Topping  Dark Chocolate Sauce  Dark Chocolate Sauce 6.25
+Egg Roll  Fruit Preserves Topping 4.25
+Egg Roll 3.75
+Egg Roll  Fruit Preserves Topping  Marinara Sauce  Marinara Sauce 6.25
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.75
+Catering Customer: 
+Original Purchase: {Spring Roll=5, Egg Roll=5, Pastry Roll=5}
+NOT ENOUGH INVENTORY TO FILL CATERING ORDER
 Casual Customer: 
 Original Purchase: {Spring Roll=2}
-purchase copy: {Spring Roll=2}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@6adede5, restaurant.SpringRoll@2d928643]
 Casual Customer: 
-Original Purchase: {Spring Roll=3}
-purchase copy: {Spring Roll=3}
-Actual Purchase: {Spring Roll=0}
-order[restaurant.SpringRoll@5025a98f, restaurant.SpringRoll@49993335, restaurant.SpringRoll@20322d26]
+Original Purchase: {Egg Roll=1}
+order: [restaurant.EggRoll@78c03f1f]
+Egg Roll  Marinara Sauce 4.75
 Casual Customer: 
-Original Purchase: {Pastry Roll=2}
-purchase copy: {Pastry Roll=2}
-Actual Purchase: {Pastry Roll=0}
-order[restaurant.PastryRoll@192b07fd, restaurant.PastryRoll@64bfbc86]
+Original Purchase: {Egg Roll=1}
+order: [restaurant.EggRoll@5ec0a365]
+Egg Roll 3.75
 Casual Customer: 
-Original Purchase: {Jelly Roll=3}
-purchase copy: {Jelly Roll=3}
-Actual Purchase: {Jelly Roll=0}
-order[restaurant.JellyRoll@64bf3bbf, restaurant.JellyRoll@55d56113, restaurant.JellyRoll@148080bb]
+Original Purchase: {Egg Roll=3}
+order: [restaurant.EggRoll@4fe3c938, restaurant.EggRoll@5383967b, restaurant.EggRoll@2ac273d3]
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.75
+Egg Roll  Dark Chocolate Sauce 4.75
+Egg Roll  Marinara Sauce  Marinara Sauce 5.75
+Casual Customer: 
+Original Purchase: {Jelly Roll=2}
+order: [restaurant.JellyRoll@71423665, restaurant.JellyRoll@20398b7c]
+Jelly Roll  Marinara Sauce 3.5
+Jelly Roll  Shredded Carrots Topping  Sweet & Sour Sauce  Sweet & Sour Sauce 5.0
 Casual Customer: 
 Original Purchase: {Jelly Roll=1}
-purchase copy: {Jelly Roll=1}
-Actual Purchase: {Jelly Roll=0}
-order[restaurant.JellyRoll@dc24521]
+order: [restaurant.JellyRoll@6fc6f14e]
+Jelly Roll  Mozzarella Cheese Topping  Marinara Sauce  Marinara Sauce 5.0
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Casual Customer: 
+Original Purchase: {Spring Roll=1}
+Casual Customer: 
+Original Purchase: {Jelly Roll=1}
+order: [restaurant.JellyRoll@56235b8e]
+Jelly Roll  Cranberry Sauce  Cranberry Sauce 4.5
 Casual Customer: 
 Original Purchase: {Sausage Roll=1}
-purchase copy: {Sausage Roll=1}
-Actual Purchase: {Sausage Roll=0}
-order[restaurant.SausageRoll@10bdf5e5]
+order: [restaurant.SausageRoll@3632be31]
+Sausage Roll  Marinara Sauce  Marinara Sauce 6.0
 Casual Customer: 
-Original Purchase: {Pastry Roll=1}
-purchase copy: {Pastry Roll=1}
-Actual Purchase: {Pastry Roll=0}
-order[restaurant.PastryRoll@6e1ec318]
+Original Purchase: {Jelly Roll=1}
+order: [restaurant.JellyRoll@5abca1e0]
+Jelly Roll  Powdered Sugar Topping  Peanut Sauce 4.0
+Casual Customer: 
+Original Purchase: {Spring Roll=2}
+Casual Customer: 
+Original Purchase: {Spring Roll=3}
+Casual Customer: 
+Original Purchase: {Pastry Roll=2}
+order: [restaurant.PastryRoll@2286778, restaurant.PastryRoll@4e9ba398]
+Pastry Roll  Mozzarella Cheese Topping  Cranberry Sauce 4.25
+Pastry Roll  Powdered Sugar Topping 3.25
+Casual Customer: 
+Original Purchase: {Sausage Roll=3}
+order: [restaurant.SausageRoll@6d7b4f4c, restaurant.SausageRoll@527740a2, restaurant.SausageRoll@13a5fe33]
+Sausage Roll  Shredded Carrots Topping  Cranberry Sauce  Cranberry Sauce 6.5
+Sausage Roll  Fruit Preserves Topping  Peanut Sauce  Peanut Sauce 6.5
+Sausage Roll 4.0
+Casual Customer: 
+Original Purchase: {Egg Roll=3}
+order: [restaurant.EggRoll@3108bc, restaurant.EggRoll@370736d9, restaurant.EggRoll@5f9d02cb]
+Egg Roll  Sweet & Sour Sauce  Sweet & Sour Sauce 5.75
+Egg Roll 3.75
+Egg Roll 3.75
+Business Customer: 
+Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
+NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 Business Customer: 
 Original Purchase: {Jelly Roll=2, Spring Roll=2, Egg Roll=2, Pastry Roll=2, Sausage Roll=2}
 NOT ENOUGH INVENTORY TO FILL BUSINESS ORDER
 
 Inventory at the end of Day 10.
-Leftover Spring Rolls: 12
-Leftover Egg Rolls: 23
+Leftover Spring Rolls: 0
+Leftover Egg Rolls: 3
 Leftover Pastry Rolls: 0
-Leftover Sausage Rolls: 20
-Leftover Jelly Rolls: 8
+Leftover Sausage Rolls: 22
+Leftover Jelly Rolls: 0
 
 ====================================================================================================
 
