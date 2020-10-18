@@ -3,8 +3,10 @@ import java.util.*;
 
 public class Restaurant {
     public static HashMap<String, Integer> inventory;
-    public HashMap<String, ArrayList<Customer>> dailyCustomers;
+    private HashMap<String, ArrayList<Customer>> dailyCustomers;
+    private HashMap<String, ArrayList<FoodItem>> order;
     private List<Observer> observers = new ArrayList<Observer>();
+    private ArrayList<FoodItem> rolls = new ArrayList<FoodItem>();
 
     public Restaurant(int numDays, int numRolls)
     {
@@ -52,14 +54,13 @@ public class Restaurant {
                 Map.Entry<String, ArrayList<Customer>> pair = it.next();
                 ArrayList<Customer> customers = pair.getValue();
                 customers.forEach((customer) -> customer.purchase(this));
+
                 if(checkInventorySoldOut())
                 {
                     System.out.println("\n================================Store Closing All Sold Out!====================================\n");
                     break;
                 }
             }
-
-            
 
             //print out the inventory at the end of each day by type
             System.out.println("\nInventory at the end of Day " + i + ".");
@@ -77,6 +78,7 @@ public class Restaurant {
     public void requestPurchase(HashMap<String, Integer> purchase) throws OrderNotFilledException
     {
         HashMap<String, Integer> tempInventory = inventory;
+        HashMap<String, Integer> purchaseCopy = new HashMap<String, Integer>(purchase);
         Iterator<Map.Entry<String, Integer>> it = purchase.entrySet().iterator();
         boolean successful = true;
         while (it.hasNext()) 
@@ -100,10 +102,67 @@ public class Restaurant {
             throw new OrderNotFilledException(purchase, tempInventory);
         } else {
             inventory = tempInventory;
+            System.out.println("purchase copy: " + purchaseCopy);
+            System.out.println("Actual Purchase: "+ purchase);
+            makeRolls(purchaseCopy);
         }
-        notifyAllObservers();
-        System.out.println("Actualy Purchase: "+purchase);
     }
+
+    public void makeRolls(HashMap<String, Integer> purchaseCopy)
+    {
+        Iterator<Map.Entry<String, Integer>> it = purchaseCopy.entrySet().iterator();
+        order = new HashMap<String, ArrayList<FoodItem>>();
+        while(it.hasNext())
+        {
+            Map.Entry<String, Integer> pair = it.next();
+            int numOfRolls = pair.getValue();
+            String rollType = pair.getKey();
+            System.out.println("pair value: " + numOfRolls);
+            System.out.println("pair key: " + rollType);
+            for(int i = 0; i < numOfRolls; i++)
+                {
+                    if(pair.getKey() == "Egg Roll")
+                    {
+                        System.out.println("Add eggroll to list");
+                        rolls.add(new EggRoll());
+                    }
+                    if(pair.getKey() == "Spring Roll")
+                    {
+                        rolls.add(new SpringRoll());
+                    }
+                    if(pair.getKey() == "Sausage Roll")
+                    {
+                        rolls.add(new SausageRoll());
+                    }
+                    if(pair.getKey() == "Pastry Roll")
+                    {
+                        rolls.add(new PastryRoll());
+                    }
+                    if(pair.getKey() == "Jelly Roll")
+                    {
+                        rolls.add(new JellyRoll());
+                    }
+                }
+            order.put(pair.getKey(), rolls);
+        }
+        System.out.println("Order: " + order);
+        //decorateRolls(order);
+    }
+
+    // public HashMap<String, FoodItem> decorateRolls(HashMap<String, FoodItem> order)
+    // {
+    //     Iterator<Map.Entry<String, FoodItem>> it = order.entrySet().iterator();
+    //     while(it.hasNext())
+    //     {
+    //         Map.Entry<String, FoodItem> pair = it.next();
+    //         //choose random number for num extras
+    //         // int numToppings = new Random().nextInt(2);
+    //         // int numSauces = new Random().nextInt(3);
+    //         // int numFillings = new Random().nextInt(1);
+    //     }
+    //     return order;
+    // }
+
 
     public Boolean checkInventorySoldOut()
     {
@@ -116,6 +175,7 @@ public class Restaurant {
                 return false;
             } 
          }
+         notifyAllObservers();
          return true;
     }
 
